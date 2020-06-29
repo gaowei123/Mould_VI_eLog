@@ -1,0 +1,2 @@
+20200423 15:38:12 下午 -- [|Debug Log|][RefreshVidata modellife][Visuallnspection][][MachineID : 1 PartNumberAll: 75K308-0094 Accumulate: 39170 Clean1Qty : 39170 ]
+20200423 15:38:26 下午 -- [|Debug Log|][RefreshVidata modellife][Visuallnspection][][MachineID : 1 PartNumberAll: 75K308-0094 Accumulate: 39170 Clean1Qty : 39170 ]

@@ -1,0 +1,418 @@
+D:\Project\P166-SDSS-RBMS\P165-SDSS-RBMS V15.12.18.01\Common\bin\Debug\Common.dll
+D:\Project\P166-SDSS-RBMS\P165-SDSS-RBMS V15.12.18.01\Common\bin\Debug\Common.pdb
+D:\Project\P166-SDSS-RBMS\P165-SDSS-RBMS V15.12.18.01\Common\obj\Debug\Common.dll
+D:\Project\P166-SDSS-RBMS\P165-SDSS-RBMS V15.12.18.01\Common\obj\Debug\Common.pdb
+D:\Project\P166-SDSS-RBMS\P165-SDSS-RBMS V15.12.18.01\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\Common.dll
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\Common.pdb
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V15.12.18.01\Common\obj\Debug\Common.dll
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V15.12.18.01\Common\obj\Debug\Common.pdb
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\Common.dll
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\Common.pdb
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\office.dll
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\bin\Debug\office.xml
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\obj\Debug\Common.dll
+F:\P165-SDSS-DSBMS V15.12.18.01\Common\obj\Debug\Common.pdb
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V15.12.18.01\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\Common.dll
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\Common.pdb
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.27.01\Common\obj\Debug\Common.dll
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.27.01\Common\obj\Debug\Common.pdb
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\Common.dll
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\Common.pdb
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\office.dll
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\bin\Debug\office.xml
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\obj\Debug\Common.dll
+F:\P165-SDSS-DSBMS V16.01.27.01\Common\obj\Debug\Common.pdb
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.27.01\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\Common.dll
+F:\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\Common.pdb
+F:\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\office.dll
+F:\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\office.xml
+F:\P165-SDSS-DSBMS V16.01.30\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\P165-SDSS-DSBMS V16.01.30\Common\obj\Debug\Common.dll
+F:\P165-SDSS-DSBMS V16.01.30\Common\obj\Debug\Common.pdb
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\Common.dll
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.30\Common\bin\Debug\Common.pdb
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.30\Common\obj\Debug\Common.dll
+D:\Project\P165-SDSS-DSBMS\P165-SDSS-DSBMS V16.01.30\Common\obj\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.02.14\Common\obj\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.02.14\Common\obj\Debug\Common.pdb
+F:\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\Common.dll
+F:\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\Common.pdb
+F:\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\office.dll
+F:\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\P167-SDSS-FOUP V16.02.14\Common\bin\Debug\office.xml
+F:\P167-SDSS-FOUP V16.02.14\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\P167-SDSS-FOUP V16.02.14\Common\obj\Debug\Common.dll
+F:\P167-SDSS-FOUP V16.02.14\Common\obj\Debug\Common.pdb
+D:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.dll
+D:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.pdb
+D:\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.dll
+D:\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.pdb
+F:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.dll
+F:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.pdb
+F:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\office.dll
+F:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\office.xml
+F:\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.dll
+F:\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\YK\Desktop\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.dll
+C:\Users\YK\Desktop\P167-SDSS-FOUP V16.03.20\Common\bin\Debug\Common.pdb
+C:\Users\YK\Desktop\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\YK\Desktop\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.dll
+C:\Users\YK\Desktop\P167-SDSS-FOUP V16.03.20\Common\obj\Debug\Common.pdb
+C:\UBCT\YK\UBCT-软件代码\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.05\Common\bin\Debug\Common.dll
+C:\UBCT\YK\UBCT-软件代码\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.05\Common\bin\Debug\Common.pdb
+C:\UBCT\YK\UBCT-软件代码\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.05\Common\obj\Debug\Common.dll
+C:\UBCT\YK\UBCT-软件代码\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.05\Common\obj\Debug\Common.pdb
+C:\UBCT\YK\UBCT-软件代码\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.05\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Common.dll
+G:\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Common.pdb
+G:\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\office.dll
+G:\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\office.xml
+G:\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\ResolveAssemblyReference.cache
+G:\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\Common.dll
+G:\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\Common.pdb
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Common.dll
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Common.pdb
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\office.dll
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\office.xml
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\Common.dll
+C:\Users\P167-01 FOUP\Desktop\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.09\Common\bin\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.09\Common\obj\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.12.1\Common\bin\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.12.1\Common\bin\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.12.1\Common\obj\Debug\Common.dll
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.12.1\Common\obj\Debug\Common.pdb
+D:\Project\P167-SDSS-FOUP\P167-SDSS-FOUP V16.04.12.1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\SDSS-ARS-Interface\SQL Server Version\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface\SQL Server Version\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface\SQL Server Version\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\SDSS-ARS-Interface\SQL Server Version\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface\SQL Server Version\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface\Oracle Server Version\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface\Oracle Server Version\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface\Oracle Server Version\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface\Oracle Server Version\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V2.0\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V2.0\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V2.0\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V2.0\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160603\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160603\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160603\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160603\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160603\Common\bin\Debug\Common.dll.config
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160603\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160618\Common\bin\Debug\Common.dll.config
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160618\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160618\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160618\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160618\Common\obj\Debug\Common.pdb
+E:\Oracle Server Version - NewServer-V20160618\Common\bin\Debug\Common.dll.config
+E:\Oracle Server Version - NewServer-V20160618\Common\bin\Debug\Common.dll
+E:\Oracle Server Version - NewServer-V20160618\Common\bin\Debug\Common.pdb
+E:\Oracle Server Version - NewServer-V20160618\Common\obj\Debug\Common.dll
+E:\Oracle Server Version - NewServer-V20160618\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160712\Common\bin\Debug\Common.dll.config
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160712\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160712\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160712\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160712\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160719\Common\bin\Debug\Common.dll.config
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160719\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160719\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160719\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160719\Common\obj\Debug\Common.pdb
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160719\Common\bin\Debug\Common.dll.config
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160719\Common\bin\Debug\Common.dll
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160719\Common\bin\Debug\Common.pdb
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160719\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160719\Common\obj\Debug\Common.dll
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160719\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-Interface v2016.4.27\Oracle Server Version - NewServer-V20160719\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801\Common\bin\Debug\Common.dll.config
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801\Common\bin\Debug\Common.dll
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801\Common\bin\Debug\Common.pdb
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801\Common\obj\Debug\Common.dll
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801\Common\obj\Debug\Common.pdb
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801-1\Common\bin\Debug\Common.dll.config
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801-1\Common\bin\Debug\Common.dll
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801-1\Common\bin\Debug\Common.pdb
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801-1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801-1\Common\obj\Debug\Common.dll
+D:\YK\UBCT-软件代码\SDSS-ARS-Interface v2016.5.19\Oracle Server Version - NewServer-V20160801-1\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2016-10-09\Common\bin\Debug\Common.dll.config
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2016-10-09\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2016-10-09\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2016-10-09\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2016-10-09\Common\obj\Debug\Common.pdb
+D:\Project\P173-SDSS-FG\SDSS-ARS-WHS-Interface-2016-10-09\Common\bin\Debug\Common.dll.config
+D:\Project\P173-SDSS-FG\SDSS-ARS-WHS-Interface-2016-10-09\Common\bin\Debug\Common.dll
+D:\Project\P173-SDSS-FG\SDSS-ARS-WHS-Interface-2016-10-09\Common\bin\Debug\Common.pdb
+D:\Project\P173-SDSS-FG\SDSS-ARS-WHS-Interface-2016-10-09\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\P173-SDSS-FG\SDSS-ARS-WHS-Interface-2016-10-09\Common\obj\Debug\Common.dll
+D:\Project\P173-SDSS-FG\SDSS-ARS-WHS-Interface-2016-10-09\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SDSS-ARS-WHS-Interface-2016-06-23\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\SDSS Interface\SDSS-ARS-WHS-Interface-2016-06-23\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SDSS-ARS-WHS-Interface-2016-06-23\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SDSS-ARS-WHS-Interface-2016-06-23\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SDSS-ARS-WHS-Interface-2016-06-23\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-06-23\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-06-23\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-06-23\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-06-23\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-06-23\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-06-23\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-03\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-03\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-03\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-03\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-03\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-03\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-06\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-06\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-06\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-06\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-06\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-06\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21\Common\bin\Debug\Common.dll.config
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21\Common\obj\Debug\Common.pdb
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21.01\Common\bin\Debug\Common.dll.config
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21.01\Common\bin\Debug\Common.dll
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21.01\Common\bin\Debug\Common.pdb
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21.01\Common\obj\Debug\Common.dll
+D:\Project\SDSS-ARS-WHS-Interface\SDSS-ARS-WHS-Interface-2017-07-21.01\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-30\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-30\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-30\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-30\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-30\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-07-30\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-01\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-01\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-01\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-01\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-01\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-01\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-08\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-08\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-08\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-08\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\SDSS Interface\SRC\SDSS-ARS-WHS-Interface-2017-08-08\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\bin\Debug\DBHelp.dll
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\bin\Debug\DBHelp.pdb
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\LMMS\SRC\SDSS-MMS-Interface\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\bin\Debug\DBHelp.dll
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\Common\bin\Debug\DBHelp.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\bin\Debug\DBHelp.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\bin\Debug\DBHelp.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\Common\obj\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog\Common\bin\Debug\Common.dll.config
+D:\Taiyo\Mould_VI_eLog\Common\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog\Common\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog\Common\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog\Common\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog\Common\obj\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog\Common\obj\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 828\Common\bin\Debug\Common.dll.config
+D:\Taiyo\Mould_VI_eLog - 828\Common\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 828\Common\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 828\Common\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog - 828\Common\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog - 828\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog - 828\Common\obj\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 828\Common\obj\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\Common\bin\Debug\Common.dll.config
+D:\Taiyo\Mould_VI_eLog - 0904\Common\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 0904\Common\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\Common\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog - 0904\Common\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog - 0904\Common\obj\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 0904\Common\obj\Debug\Common.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\bin\Debug\Common.dll.config
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\bin\Debug\Common.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\bin\Debug\Common.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\bin\Debug\DBHelp.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\bin\Debug\DBHelp.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\obj\Debug\Common.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\Common\obj\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\bin\Debug\Common.dll.config
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\bin\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\bin\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\bin\Debug\DBHelp.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\bin\Debug\DBHelp.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\obj\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\Common\obj\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\Common\bin\Debug\Common.dll.config
+D:\Taiyo\Mould_VI_eLog - 0912\Common\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 0912\Common\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\Common\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog - 0912\Common\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog - 0912\Common\obj\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 0912\Common\obj\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\bin\Debug\Common.dll.config
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\bin\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\bin\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\bin\Debug\DBHelp.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\bin\Debug\DBHelp.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\obj\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\Common\obj\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\Common.dll.config
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\DBHelp.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\DBHelp.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\obj\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\Common\obj\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\Common.dll.config
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\DBHelp.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\bin\Debug\DBHelp.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\obj\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\Common\obj\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\bin\Debug\Common.dll.config
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\bin\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\bin\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\bin\Debug\DBHelp.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\bin\Debug\DBHelp.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\obj\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\Common\obj\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\bin\Debug\Common.dll.config
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\bin\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\bin\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\bin\Debug\DBHelp.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\bin\Debug\DBHelp.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\obj\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\Common\obj\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 0925\Common\bin\Debug\Common.dll.config
+E:\New Project\Mould_VI_eLog - 0925\Common\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 0925\Common\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 0925\Common\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 0925\Common\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 0925\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 0925\Common\obj\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 0925\Common\obj\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 112\Common\bin\Debug\Common.dll.config
+E:\New Project\Mould_VI_eLog - 112\Common\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 112\Common\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 112\Common\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 112\Common\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 112\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 112\Common\obj\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 112\Common\obj\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 1116\Common\bin\Debug\Common.dll.config
+E:\New Project\Mould_VI_eLog - 1116\Common\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 1116\Common\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 1116\Common\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 1116\Common\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 1116\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 1116\Common\obj\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 1116\Common\obj\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\Common.dll.config
+E:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 1218\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 1218\Common\obj\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 1218\Common\obj\Debug\Common.pdb
+D:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\Common.dll.config
+D:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\Common.dll
+D:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\Common.pdb
+D:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\DBHelp.dll
+D:\New Project\Mould_VI_eLog - 1218\Common\bin\Debug\DBHelp.pdb
+D:\New Project\Mould_VI_eLog - 1218\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\New Project\Mould_VI_eLog - 1218\Common\obj\Debug\Common.dll
+D:\New Project\Mould_VI_eLog - 1218\Common\obj\Debug\Common.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\bin\Debug\Common.dll.config
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\bin\Debug\Common.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\bin\Debug\Common.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\bin\Debug\DBHelp.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\bin\Debug\DBHelp.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\obj\Debug\Common.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\obj\Debug\Common.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\bin\Debug\Common.dll.config
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\bin\Debug\Common.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\bin\Debug\Common.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\bin\Debug\DBHelp.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\bin\Debug\DBHelp.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\obj\Debug\Common.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\Common\obj\Debug\Common.pdb

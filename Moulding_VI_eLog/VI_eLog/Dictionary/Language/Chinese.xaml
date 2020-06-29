@@ -1,0 +1,2041 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <!--Moulding VI -->
+    <sys:String x:Key="lbl_PartNo">
+        产品编号 :
+    </sys:String>
+    <sys:String x:Key="Submit">
+        提交
+    </sys:String>
+    <sys:String x:Key="Machine Running">
+        运行
+    </sys:String>
+    <sys:String x:Key="End">
+        结束
+    </sys:String>
+    <sys:String x:Key="Adjustment">
+        调机        
+    </sys:String>
+    <sys:String x:Key="Material Testing">
+        材料测试
+    </sys:String>
+    <sys:String x:Key="Mould Testing">
+        模具测试
+    </sys:String>
+    <sys:String x:Key="Model">
+        更换模具
+    </sys:String>
+    <sys:String x:Key="Break Time">
+        休息时间
+    </sys:String>
+    <sys:String x:Key="No Operatoer">
+        没操作员
+    </sys:String>
+    <sys:String x:Key="No Material">
+        没原材料
+    </sys:String>
+    <sys:String x:Key="M/C Stop">
+        没原材料
+    </sys:String>
+    <sys:String x:Key="Open Keyboard">
+        打开键盘
+    </sys:String>
+    <sys:String x:Key="Shut Down">
+        关机
+    </sys:String>
+    <sys:String x:Key="OpHourlyCheck">
+        操作工每小时复核
+    </sys:String>
+    <sys:String x:Key="IpqcCheck">
+        质检员复核
+    </sys:String>
+    <sys:String x:Key="lbl_Mat1Part">
+        原材料1编号 :
+    </sys:String> 
+    <sys:String x:Key="lbl_Mat2Part">
+        原材料2编号 :
+    </sys:String>
+    <sys:String x:Key="lbl_Mat1Batch">
+        原材料1批次号 :
+    </sys:String>
+    <sys:String x:Key="lbl_Mat2Batch">
+        原材料2批次号 :
+    </sys:String>
+    <sys:String x:Key="lbl_JigNo">
+        夹具编号 :
+    </sys:String>
+    <sys:String x:Key="lbl_Model">
+        类型 :
+    </sys:String>
+    <sys:String x:Key="lbl_CycleTime">
+        周期时间 :
+    </sys:String>
+    <sys:String x:Key="lbl_Customer">
+        客户名 :
+    </sys:String>
+    <sys:String x:Key="lbl_CavityCount">
+        空腔数量 :
+    </sys:String>
+    <sys:String x:Key="lbl_MaterialWeight">
+        材料重量 :
+    </sys:String>
+    <sys:String x:Key="lbl_TotalQty">
+        总数量 :
+    </sys:String>
+    <sys:String x:Key="lbl_PassQty">
+        成品数量 :
+    </sys:String>
+    <sys:String x:Key="lbl_FailQty">
+        次品数量 :
+    </sys:String>
+    <sys:String x:Key="lbl_TargetQty">
+        目标数量 :
+    </sys:String>
+   
+    
+    <!--================================================== MainWinodw - Start ================================================-->
+    <sys:String x:Key="MW_SystemName">
+        Flip Chip 黏合剂物料管理系统
+    </sys:String>
+    <sys:String x:Key="MW_Login">
+        登陆
+    </sys:String>
+    <sys:String x:Key="MW_Exit">
+        退出
+    </sys:String>
+    <sys:String x:Key="MW_Language">
+        语言 :
+    </sys:String>
+    <sys:String x:Key="MW_Chinese">
+        中文
+    </sys:String>
+    <sys:String x:Key="MW_English">
+        English
+    </sys:String>
+    <sys:String x:Key="MW_SignIn">
+        登录
+    </sys:String>
+    <sys:String x:Key="MW_SignOut">
+        注销
+    </sys:String>
+    <!--================================================== MainWinodw - End ================================================-->
+    <!--================================================== ReportPage - Start ================================================-->
+    <sys:String x:Key="Rpt_Teb_PendingPutAway">
+        收料列表
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_RequestList">
+        领料申请列表
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_Monthly">
+        每月库存报告
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_Daily">
+        每日库存报告
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_Weekly">
+        每周库存报告
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_Inventory">
+        SPMS库存信息
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_Tracking">
+        SPMS部件记录
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_InventoryHistory">
+        SPMS库存历史
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_MaterialTracking">
+        SPMS发料追踪
+    </sys:String>
+    <sys:String x:Key="Rpt_Teb_TrackingHistory">
+        SPMS材料历史记录
+    </sys:String>
+    <sys:String x:Key="Rpt_TotalQTY">
+        总数量 :
+    </sys:String> 
+    <sys:String x:Key="Rpt_TimeStamp">
+        时间点 :
+    </sys:String>
+    <sys:String x:Key="Rpt_PartNo">
+        材料PartNo :
+    </sys:String>
+    <sys:String x:Key="Rpt_MaterialType">
+        材料类型 :
+    </sys:String>
+    <sys:String x:Key="Rpt_btn_Calculate">
+          计算
+    </sys:String>
+    <!--================================================== ReportPage - End ================================================-->
+    <!--================================================== Common ================================================-->
+    <sys:String x:Key="user_id">
+        工号
+    </sys:String>
+    <sys:String x:Key="user_name">
+        姓名
+    </sys:String>
+    <sys:String x:Key="user_group">
+        权限
+    </sys:String>
+    <sys:String x:Key="department">
+        部门
+    </sys:String>
+    <sys:String x:Key="sapcode">
+        Sapcode
+    </sys:String>
+    <sys:String x:Key="batch_no">
+        批次
+    </sys:String>
+    <sys:String x:Key="due_date">
+        过期时间
+    </sys:String>
+    <sys:String x:Key="load_qty">
+        入库数量
+    </sys:String>
+    <sys:String x:Key="IQA_qty">
+        IQA数量
+    </sys:String>
+    <sys:String x:Key="description">
+        描述
+    </sys:String>
+    <sys:String x:Key="inventory">
+        库存
+    </sys:String>
+    <sys:String x:Key="refresh">
+        刷新列表
+    </sys:String>
+    <sys:String x:Key="gb_user">
+        用户信息
+    </sys:String>
+    <sys:String x:Key="gb_input">
+        输入信息
+    </sys:String>
+    <sys:String x:Key="gb_material">
+        材料信息
+    </sys:String>
+    <sys:String x:Key="load">
+        入库
+    </sys:String>
+    <sys:String x:Key="manual_load">
+        手动入库
+    </sys:String>
+    <sys:String x:Key="manual_Return">
+        手动返还
+    </sys:String>
+    <sys:String x:Key="MatDocNo">
+        物料凭证
+    </sys:String>
+    <sys:String x:Key="gb_sap">
+        SAP系统信息
+    </sys:String>
+    <sys:String x:Key="unload">
+        领取
+    </sys:String>
+    <sys:String x:Key="return">
+        返还
+    </sys:String>
+    <sys:String x:Key="ManualPrint">
+         手动打印
+    </sys:String>
+    <sys:String x:Key="PrintLabelCount">
+         打印标签数量
+    </sys:String>
+    <sys:String x:Key="unit">
+        个数
+    </sys:String>
+    <sys:String x:Key="lot_id">
+        Lot号码
+    </sys:String>
+    <sys:String x:Key="remarks">
+        备注
+    </sys:String>
+    <sys:String x:Key="part_id">
+        物品号码
+    </sys:String>
+    <sys:String x:Key="mc_id">
+        机器号码
+    </sys:String>
+    <sys:String x:Key="transfer_qty">
+        转移数量
+    </sys:String>
+    <sys:String x:Key="device">
+        产品型号
+    </sys:String>
+    <sys:String x:Key="status">
+        状态
+    </sys:String>
+    <sys:String x:Key="g">
+        克
+    </sys:String>
+    <sys:String x:Key="start_weight">
+        开始重量
+    </sys:String>
+    <sys:String x:Key="current_weight">
+        当前重量
+    </sys:String>
+    <sys:String x:Key="net_weight">
+        净重
+    </sys:String>
+    <sys:String x:Key="transfer_type">
+        转移类型
+    </sys:String>
+    <sys:String x:Key="barcode_scan">
+        标签扫描
+    </sys:String>
+    <sys:String x:Key="mh_id">
+        MH工号
+    </sys:String>
+    <sys:String x:Key="op_id">
+        操作工工号
+    </sys:String>
+    <sys:String x:Key="return_weight">
+        剩余重量
+    </sys:String>
+    <sys:String x:Key="rms_unit">
+        RMS单位数量
+    </sys:String>
+    <sys:String x:Key="return_type">
+        返还类型
+    </sys:String>
+    <sys:String x:Key="remain_life">
+        剩余寿命
+    </sys:String>
+    <sys:String x:Key="hour">
+        小时
+    </sys:String>
+    <sys:String x:Key="min">
+        分钟
+    </sys:String>
+    <sys:String x:Key="thaw_date">
+        解冻时间
+    </sys:String>
+    <sys:String x:Key="ready_date">
+        就绪时间
+    </sys:String>
+    <sys:String x:Key="expiry_date">
+        过期时间
+    </sys:String>
+    <sys:String x:Key="issue_date">
+        发放时间
+    </sys:String>
+    <sys:String x:Key="life_time">
+        寿命
+    </sys:String>
+    <sys:String x:Key="update">
+        更新
+    </sys:String>
+    <sys:String x:Key="search">
+        查找
+    </sys:String>
+    <sys:String x:Key="add">
+        添加
+    </sys:String>
+    <sys:String x:Key="delete">
+        删除
+    </sys:String>
+    <sys:String x:Key="material_type">
+        物品类型
+    </sys:String>
+    <sys:String x:Key="ok">
+        确认
+    </sys:String>
+    <sys:String x:Key="cancel">
+        取消
+    </sys:String>
+    <sys:String x:Key="days">
+        天
+    </sys:String>
+    <sys:String x:Key="month">
+        月
+    </sys:String>
+    <sys:String x:Key="capacity">
+        容量
+    </sys:String>
+    <sys:String x:Key="g/m">
+        克/米
+    </sys:String>
+    <sys:String x:Key="mfg_date">
+        生产日期
+    </sys:String>
+    <sys:String x:Key="comm_KeyBoard">
+        键盘
+    </sys:String>
+<!--****************************Common End**************************************************88-->
+    <!--*********************************************************************************************************************-->
+    <!--================================================== LoginPage - Start ================================================-->
+    <sys:String x:Key="LP_userLogin">
+        用户登陆
+    </sys:String>
+    <sys:String x:Key="LP_userID">
+        工号 :
+    </sys:String>
+    <sys:String x:Key="LP_password">
+        密码 :
+    </sys:String>
+    <sys:String x:Key="LP_login">
+        登陆
+    </sys:String>
+    <sys:String x:Key="LP_cancel">
+        取消
+    </sys:String>
+    <sys:String x:Key="LP_registed">
+        已注册
+    </sys:String>
+    <sys:String x:Key="LP_capture">
+        截获
+    </sys:String>
+     
+    <!--================================================== LoginPage - End ================================================-->
+    <!--*********************************************************************************************************************-->
+    <!--================================================== UserAccess - Start ================================================-->
+    <sys:String x:Key="UA_currentUser">
+        当前用户 :
+    </sys:String>
+    <sys:String x:Key="UA_adminMode">
+        管理员模式
+    </sys:String>
+    <sys:String x:Key="UA_engineerMode">
+        工程师模式
+    </sys:String>
+    <sys:String x:Key="UA_maintMode">
+        维修模式
+    </sys:String>
+    <sys:String x:Key="UA_home">
+        初始化
+    </sys:String>
+    <sys:String x:Key="UA_load">
+        入库
+    </sys:String>
+    <sys:String x:Key="UA_unload">
+        领取
+    </sys:String>
+    <sys:String x:Key="UA_return">
+        返还
+    </sys:String>
+    <sys:String x:Key="UA_remove">
+        强制性领取
+    </sys:String>
+    <!--================================================== UserAccess - End ================================================-->
+    <!--*********************************************************************************************************************-->
+    <!--================================================== TransactionPage - Start ================================================-->
+    <sys:String x:Key="TS_loadPage">
+        SPMS入库页面
+    </sys:String>
+    <sys:String x:Key="TS_unloadPage">
+        SPMS领取页面
+    </sys:String>
+    <sys:String x:Key="TS_returnPage">
+        SPMS返还页面
+    </sys:String>
+    <sys:String x:Key="TS_removePage">
+        SPMS强制性领取页面
+    </sys:String>
+    <sys:String x:Key="TS_userInfor">
+        用户信息
+    </sys:String>
+    <sys:String x:Key="TS_inputInfor">
+        输入信息
+    </sys:String>
+    <sys:String x:Key="TS_materialInfor">
+        物品信息
+    </sys:String>
+    <sys:String x:Key="TS_LotInfor">
+        产品信息
+    </sys:String> 
+ 
+    <sys:String x:Key="TS_BinLocationInfor">
+        仓位信息
+    </sys:String> 
+    <sys:String x:Key="TS_RequestInfor">
+        申请单信息
+    </sys:String>
+    <sys:String x:Key="TS_RleaseInfor">
+        发料信息
+    </sys:String>
+    <sys:String x:Key="TS_userID">
+        工号 :
+    </sys:String>
+   
+    <sys:String x:Key="TS_userName">
+        姓名 :
+    </sys:String>
+    <sys:String x:Key="TS_userGroup">
+        权限 :
+    </sys:String>
+    <sys:String x:Key="TS_department">
+        部门 :
+    </sys:String>
+    <sys:String x:Key="TS_sapcode">
+        SAP号码 :
+    </sys:String>
+    <sys:String x:Key="TS_batchNo">
+        Batch号码 :
+    </sys:String>
+    <sys:String x:Key="TS_weight">
+        重量(克) :
+    </sys:String>
+    <sys:String x:Key="TS_slotNo">
+        位置 :
+    </sys:String>
+    <sys:String x:Key="TS_partID">
+        物品号码 :
+    </sys:String>
+    <sys:String x:Key="TS_description">
+        描述 :
+    </sys:String>
+    <sys:String x:Key="TS_materialType">
+        物品类型 :
+    </sys:String>
+    <sys:String x:Key="TS_thawTime">
+        解冻时间 :
+    </sys:String>
+    <sys:String x:Key="TS_readyTime">
+        可使用时间 :
+    </sys:String>
+    <sys:String x:Key="TS_expiryTime">
+        过期时间 :
+    </sys:String>
+    <sys:String x:Key="TS_lifeTime">
+        使用寿命 :
+    </sys:String>
+    <sys:String x:Key="TS_currentLifeTime">
+        剩余寿命 :
+    </sys:String>
+    <sys:String x:Key="TS_maxWeight">
+        最大重量(克) :
+    </sys:String>
+    <sys:String x:Key="TS_minWeight">
+        最小重量(克) :
+    </sys:String>
+    <sys:String x:Key="TS_containerWeight">
+        容器重量(克) :
+    </sys:String>
+    <sys:String x:Key="TS_startLoad">
+        开始入库
+    </sys:String>
+    <sys:String x:Key="TS_stop">
+        停止
+    </sys:String>
+    <sys:String x:Key="TS_mcID">
+        设备号码 :
+    </sys:String>
+    <sys:String x:Key="TS_mcModel">
+        设备型号 :
+    </sys:String>
+    <sys:String x:Key="TS_mcType">
+        设备类型 :
+    </sys:String>
+    <sys:String x:Key="TS_lotNo">
+        Lot号码 :
+    </sys:String>
+    <sys:String x:Key="TS_mesDevice">
+        MES Device :
+    </sys:String>
+    <sys:String x:Key="TS_currentWeight">
+        当前重量 :
+    </sys:String>
+    <sys:String x:Key="TS_startUnload">
+        开始领取
+    </sys:String>
+    <sys:String x:Key="TS_returnType">
+        返还类型 :
+    </sys:String>
+    <sys:String x:Key="TS_remark">
+        备注 :
+    </sys:String>
+    <sys:String x:Key="TS_startWeight">
+        开始重量 :
+    </sys:String>
+    <sys:String x:Key="TS_scrapWeight">
+        报废重量 :
+    </sys:String>
+    <sys:String x:Key="TS_startReturn">
+        开始返还
+    </sys:String>
+    <sys:String x:Key="TS_startRemove">
+        开始取出
+    </sys:String>
+    <sys:String x:Key="TS_Clear">
+        清除
+    </sys:String>
+    <sys:String x:Key="TS_PartNo">
+        Part号码 :
+    </sys:String>
+    <sys:String x:Key="TS_LoadID">
+        入库编号 :
+    </sys:String>
+    <sys:String x:Key="TS_LoadIDorPartID">
+        入库/Part编号 :
+    </sys:String>
+    <sys:String x:Key="TS_RecordID">
+        记录ID :
+    </sys:String>
+    <sys:String x:Key="TS_LoadQuantity">
+        入库数量  :
+    </sys:String>
+    <sys:String x:Key="TS_EquipID">
+        机器号  :
+    </sys:String>
+    <sys:String x:Key="TS_Request">
+         提交申请
+    </sys:String>
+    <sys:String x:Key="TS_lbl_RequestID">
+        申请编号 :
+    </sys:String>
+    <sys:String x:Key="TS_lbl_RequestQTY">
+        申请数量 :
+    </sys:String>
+    <sys:String x:Key="TS_lbl_ReleaseQTY">
+        发放数量 :
+    </sys:String>
+    <sys:String x:Key="TS_lbl_PartName">
+        备件名称 :
+    </sys:String>
+    <sys:String x:Key="TS_lbl_UnitPrice">
+        单价 :
+    </sys:String>
+    <sys:String x:Key="TS_ReleaseInfor">
+        备件发放信息
+    </sys:String>
+    <sys:String x:Key="TS_Reset">
+        重置
+    </sys:String>
+    <sys:String x:Key="TS_lbl_Count">
+        数量 :
+    </sys:String>
+    <sys:String x:Key="TS_Save">
+        保存
+    </sys:String>
+    <sys:String x:Key="TS_Setting">
+        设置
+    </sys:String>
+    <sys:String x:Key="TS_Maintain">
+        维护
+    </sys:String>
+    <sys:String x:Key="TS_Inventory">
+        库存
+    </sys:String>
+    <sys:String x:Key="TS_Data">
+        数据
+    </sys:String>
+    <sys:String x:Key="TS_StorageInfor">
+         库存信息
+    </sys:String>
+    <!--================================================== TransactionPage - End ================================================-->
+    <!--*********************************************************************************************************************-->
+    <!--================================================== AdminPage - Start ================================================-->
+    <sys:String x:Key="AP_adminPage">
+        SPMS管理员模式
+    </sys:String>
+    <sys:String x:Key="AP_systemSet">
+        系统设定
+    </sys:String>
+    <!--================================================== AdminPage - End ================================================-->
+    <!--*********************************************************************************************************************-->
+    <!--================================================== EngineerPage - Start ================================================-->
+    <sys:String x:Key="EP_engineerPage">
+        SPMS工程师模式
+    </sys:String>
+    <sys:String x:Key="EP_ManualReturn">
+        手工返还
+    </sys:String>
+    <sys:String x:Key="EP_OpenPO">
+        PO管理
+    </sys:String>
+    <sys:String x:Key="EP_lbl_PONo">
+        PO No. :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_PartNo">
+        Part No. :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_QTY">
+        数量 :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_Remarks">
+        备注 :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_Device">
+        产品Device :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_MonthlyUsage">
+        月用量 :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_RecieveDuration">
+        收料时间(月) :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_Unit">
+         最小单位数量 :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_Vendor">
+        供应商 :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_VendorCode">
+        供应商代码 :
+    </sys:String>
+    <sys:String x:Key="EP_lbl_MaterialType">
+        材料类型 :
+    </sys:String>
+    <sys:String x:Key="EP_MaterialPartManagement">
+        材料用量管理
+    </sys:String>
+    <sys:String x:Key="EP_userManagement">
+        用户管理
+    </sys:String>
+    <sys:String x:Key="EP_PermissionManagement">
+        权限管理
+    </sys:String>
+    <sys:String x:Key="EP_EquipmentManagement">
+        机器管理
+    </sys:String>
+    <sys:String x:Key="EP_DepartmentManagement">
+        部门管理
+    </sys:String>
+    <sys:String x:Key="EP_MaterialTypeManagement">
+        材料种类管理
+    </sys:String>
+    <sys:String x:Key="EP_VendorManagement">
+        供应商列表管理
+    </sys:String>
+     
+    <sys:String x:Key="EP_sapManagement">
+        SAP管理
+    </sys:String>
+    <sys:String x:Key="EP_historyDB">
+        历史数据查询
+    </sys:String>
+    <sys:String x:Key="EP_trackingDB">
+        当前数据查询
+    </sys:String>
+    <sys:String x:Key="EP_equipmentDB">
+        设备管理
+    </sys:String>
+    <sys:String x:Key="EP_userID">
+        工号 :
+    </sys:String>
+    <sys:String x:Key="EP_search">
+        查询
+    </sys:String>
+    <sys:String x:Key="EP_add">
+        添加
+    </sys:String>
+    <sys:String x:Key="EP_update">
+        更新
+    </sys:String>
+    <sys:String x:Key="EP_delete">
+        删除
+    </sys:String>
+    <sys:String x:Key="EP_sapcode">
+        SAP号码 :
+    </sys:String>
+    <sys:String x:Key="EP_dateFrom">
+        开始日期 :
+    </sys:String>
+    <sys:String x:Key="EP_dateTo">
+        结束日期 :
+    </sys:String>
+    <sys:String x:Key="EP_partID">
+        Part号码 :
+    </sys:String>
+    <sys:String x:Key="EP_mcID">
+        设备号码 :
+    </sys:String>
+    <sys:String x:Key="EP_mcModel">
+        设备型号 :
+    </sys:String>
+    <sys:String x:Key="EP_department">
+        部门 :
+    </sys:String>
+    <sys:String x:Key="EP_process">
+        流程 :
+    </sys:String>
+    <sys:String x:Key="EP_vendor">
+        供应商 :
+    </sys:String>
+    <sys:String x:Key="EP_serialNo">
+        序列号 :
+    </sys:String>
+    <sys:String x:Key="EP_materialType">
+        物品类型 :
+    </sys:String>
+    <sys:String x:Key="EP_assetNo">
+        资产号码 :
+    </sys:String>
+    <sys:String x:Key="EP_confirm">
+        确认
+    </sys:String>
+    <sys:String x:Key="EP_cancel">
+        取消
+    </sys:String>
+    <sys:String x:Key="EP_thawTime">
+        解冻时间 :
+    </sys:String>
+    <sys:String x:Key="EP_usageLife">
+        使用寿命 :
+    </sys:String>
+    <sys:String x:Key="EP_shelfLife">
+        保质期 :
+    </sys:String>
+    <sys:String x:Key="EP_description">
+        描述 :
+    </sys:String>
+    <sys:String x:Key="EP_containerWeight">
+        容器重量 :
+    </sys:String>
+	<sys:String x:Key="EP_capacity">
+        容量 :
+    </sys:String>
+    <sys:String x:Key="EP_scrapWeight">
+        报废重量 :
+    </sys:String>
+    <sys:String x:Key="EP_incomeMinWT">
+        最小重量 :
+    </sys:String>
+    <sys:String x:Key="EP_incomeMaxWT">
+        最大重量 :
+    </sys:String>
+    <sys:String x:Key="EP_materialCategory">
+        物品种类 :
+    </sys:String>
+    <sys:String x:Key="EP_min">
+        分
+    </sys:String>
+    <sys:String x:Key="EP_month">
+        月
+    </sys:String>
+    <sys:String x:Key="EP_g">
+        克
+    </sys:String>
+    <sys:String x:Key="EP_userName">
+        用户名 :
+    </sys:String>
+    <sys:String x:Key="EP_userGroup">
+        权限 :
+    </sys:String>
+    <sys:String x:Key="EP_password">
+        密码 :
+    </sys:String>
+    <sys:String x:Key="EP_register">
+        注册
+    </sys:String>
+    <sys:String x:Key="EP_TransactionType">
+        操作类型 :
+    </sys:String>
+    <!--================================================== EngineerPage - End ================================================-->
+    <!--*********************************************************************************************************************-->
+    <!--================================================== SensorList - Start ================================================-->
+    <sys:String x:Key="X000">
+        紧急停止
+    </sys:String>
+    <sys:String x:Key="X001">
+        气压过低
+    </sys:String>
+    <sys:String x:Key="X002">
+        放料窗口关闭
+    </sys:String>
+    <sys:String x:Key="X003">
+        解冻门关闭
+    </sys:String>
+    <sys:String x:Key="X004">
+        称重门打开
+    </sys:String>
+    <sys:String x:Key="X005">
+        称重门关闭
+    </sys:String>
+    <sys:String x:Key="X006">
+        空闲
+    </sys:String>
+    <sys:String x:Key="X007">
+        顶盖感应
+    </sys:String>
+    <sys:String x:Key="X008">
+        罐身感应
+    </sys:String>
+    <sys:String x:Key="X009">
+        30cc银胶管盖
+    </sys:String>
+    <sys:String x:Key="X010">
+        55cc银胶管盖
+    </sys:String>
+    <sys:String x:Key="X011">
+        空闲
+    </sys:String>
+    <sys:String x:Key="X012">
+        空闲
+    </sys:String>
+    <sys:String x:Key="X013">
+        空闲
+    </sys:String>
+    <sys:String x:Key="X014">
+        空闲
+    </sys:String>
+    <sys:String x:Key="X015">
+        空闲
+    </sys:String>
+    <sys:String x:Key="X100">
+        容器A检测
+    </sys:String>
+    <sys:String x:Key="X101">
+        容器B检测
+    </sys:String>
+    <sys:String x:Key="X102">
+        容器C检测
+    </sys:String>
+    <sys:String x:Key="X103">
+        容器D检测
+    </sys:String>
+    <sys:String x:Key="X104">
+        S-Paste A检测
+    </sys:String>
+    <sys:String x:Key="X105">
+        S-Paste B检测
+    </sys:String>
+    <sys:String x:Key="X106">
+        S-Paste C检测
+    </sys:String>
+    <sys:String x:Key="X107">
+        S-Paste D检测
+    </sys:String>
+    <sys:String x:Key="X108">
+        A门关闭
+    </sys:String>
+    <sys:String x:Key="X109">
+        A门打开
+    </sys:String>
+    <sys:String x:Key="X110">
+        B门关闭
+    </sys:String>
+    <sys:String x:Key="X111">
+        B门打开
+    </sys:String>
+    <sys:String x:Key="X112">
+        C门关闭
+    </sys:String>
+    <sys:String x:Key="X113">
+        C门打开
+    </sys:String>
+    <sys:String x:Key="X114">
+        D门关闭
+    </sys:String>
+    <sys:String x:Key="X115">
+        D门打开
+    </sys:String>
+    <sys:String x:Key="X200">
+        报废抽屉1关闭
+    </sys:String>
+    <sys:String x:Key="X201">
+        报废抽屉2关闭
+    </sys:String>
+    <sys:String x:Key="X202">
+        报废门打开
+    </sys:String>
+    <sys:String x:Key="X203">
+        报废门关闭
+    </sys:String>
+    <sys:String x:Key="X204">
+        天平称向前
+    </sys:String>
+    <sys:String x:Key="X205">
+        天平称向后
+    </sys:String>
+    <sys:String x:Key="X206">
+        报废抽屉1检测
+    </sys:String>
+    <sys:String x:Key="X207">
+        报废抽屉2检测
+    </sys:String>
+    <sys:String x:Key="X208">
+        排出器A上升
+    </sys:String>
+    <sys:String x:Key="X209">
+        排出器A下降
+    </sys:String>
+    <sys:String x:Key="X210">
+        排出器B上升
+    </sys:String>
+    <sys:String x:Key="X211">
+        排出器B下降
+    </sys:String>
+    <sys:String x:Key="X212">
+        排出器C上升
+    </sys:String>
+    <sys:String x:Key="X213">
+        排出器C下降
+    </sys:String>
+    <sys:String x:Key="X214">
+        排出器D上升
+    </sys:String>
+    <sys:String x:Key="X215">
+        排出器D下降
+    </sys:String>
+    <sys:String x:Key="Y100">
+        绿灯 开/关
+    </sys:String>
+    <sys:String x:Key="Y101">
+        黄灯 开/关
+    </sys:String>
+    <sys:String x:Key="Y102">
+        红灯 开/关
+    </sys:String>
+    <sys:String x:Key="Y103">
+        蜂鸣器 开/关
+    </sys:String>
+    <sys:String x:Key="Y104">
+        A门 开/关
+    </sys:String>
+    <sys:String x:Key="Y105">
+        B门 开/关
+    </sys:String>
+    <sys:String x:Key="Y106">
+        C门 开/关
+    </sys:String>
+    <sys:String x:Key="Y107">
+        D门 开关
+    </sys:String>
+    <sys:String x:Key="Y108">
+        抽屉1 开/关
+    </sys:String>
+    <sys:String x:Key="Y109">
+        抽屉2 开/关
+    </sys:String>
+    <sys:String x:Key="Y110">
+        解冻门 开/关
+    </sys:String>
+    <sys:String x:Key="Y111">
+        放料门 开/关
+    </sys:String>
+    <sys:String x:Key="Y112">
+        称重门 开/关
+    </sys:String>
+    <sys:String x:Key="Y113">
+        报废门 开/关
+    </sys:String>
+    <sys:String x:Key="Y114">
+        天平称 前/后
+    </sys:String>
+    <sys:String x:Key="Y115">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y200">
+        排出器A 上/下
+    </sys:String>
+    <sys:String x:Key="Y201">
+        排出器B 上/下
+    </sys:String>
+    <sys:String x:Key="Y202">
+        排出器C 上/下
+    </sys:String>
+    <sys:String x:Key="Y203">
+        排出器D 上/下
+    </sys:String>
+    <sys:String x:Key="Y204">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y205">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y206">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y207">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y208">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y209">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y210">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y211">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y212">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y213">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y214">
+        空闲
+    </sys:String>
+    <sys:String x:Key="Y215">
+        空闲
+    </sys:String>
+    <!--================================================== SensorList - End ================================================-->
+    <!--*********************************************************************************************************************-->
+    <!--================================================== Trouble Shooting List Start =======================================-->
+    <sys:String x:Key="Error1_Name">
+        Emergency Stop (X001 On) !!
+    </sys:String>
+    <sys:String x:Key="Error1_Description">
+        紧急停止 (X001 开) !!
+    </sys:String>
+    <sys:String x:Key="Error1_TroubleShooting">
+        检查紧急开关
+    </sys:String>
+
+    <sys:String x:Key="Error2_Name">
+        Low Air Pressure (X002 On) !!
+    </sys:String>
+    <sys:String x:Key="Error2_Description">
+        气压太低 (X002 开) !!
+    </sys:String>
+    <sys:String x:Key="Error2_TroubleShooting">
+        1. 检查气压值
+        2. 检查气压开关
+    </sys:String>
+
+    <sys:String x:Key="Error3_Name">
+        Open Weighting Scale Door Failed (X004 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error3_Description">
+        打开天枰称门失败 (X004 关) !!
+    </sys:String>
+    <sys:String x:Key="Error3_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. Check compressed air circuit
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error4_Name">
+        Null
+    </sys:String>
+    <sys:String x:Key="Error4_Description">
+        空
+    </sys:String>
+    <sys:String x:Key="Error4_TroubleShooting">
+        1. 感应器是否正常工作
+        2. 感应器电源接口是否松动
+    </sys:String>
+
+    <sys:String x:Key="Error5_Name">
+        250g Canister Cover Sensor not Present (X007 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error5_Description">
+        250克罐装顶盖检测失败 (X007 关) !!
+    </sys:String>
+    <sys:String x:Key="Error5_TroubleShooting">
+        1. 感应器是否正常工作
+        2. 感应器电源接口是否松动
+    </sys:String>
+
+    <sys:String x:Key="Error6_Name">
+        Canister Body Sensor not Present (X008 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error6_Description">
+        罐身检测失败 (X008 关) !!
+    </sys:String>
+    <sys:String x:Key="Error6_TroubleShooting">
+        1. 感应器是否正常工作
+        2. 感应器电源接口是否松动
+    </sys:String>
+
+    <sys:String x:Key="Error7_Name">
+        Null
+    </sys:String>
+    <sys:String x:Key="Error7_Description">
+        空
+    </sys:String>
+    <sys:String x:Key="Error7_TroubleShooting">
+        1. 感应器是否正常工作
+        2. 感应器电源接口是否松动
+    </sys:String>
+
+    <sys:String x:Key="Error8_Name">
+        30cc Syringe Bottom Cover Sensor not Present (X009 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error8_Description">
+        30cc注册器底盖检测失败 (X009 关) !!
+    </sys:String>
+    <sys:String x:Key="Error8_TroubleShooting">
+        1. 感应器是否正常工作
+        2. 感应器电源接口是否松动
+    </sys:String>
+
+    <sys:String x:Key="Error9_Name">
+        50cc Syringe Bottom Cover Sensor not Present (X010 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error9_Description">
+        50cc注射器底盖检测失败 (X010 关) !!
+    </sys:String>
+    <sys:String x:Key="Error9_TroubleShooting">
+        1. 感应器是否正常工作
+        2. 感应器电源接口是否松动
+    </sys:String>
+
+    <sys:String x:Key="Error10_Name">
+        Close Weighting Scale Door Failed (X005 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error10_Description">
+       关闭天枰称门失败 (X005 关) !!
+    </sys:String>
+    <sys:String x:Key="Error10_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error11_Name">
+        Weighting Failed !! Please try again !!
+    </sys:String>
+    <sys:String x:Key="Error11_Description">
+        称重失败 !!请再试一次 !!
+    </sys:String>
+    <sys:String x:Key="Error11_TroubleShooting">
+        电子称的数据线松动或断裂
+    </sys:String>
+
+    <sys:String x:Key="Error12_Name">
+        Null
+    </sys:String>
+    <sys:String x:Key="Error12_Description">
+        空
+    </sys:String>
+    <sys:String x:Key="Error12_TroubleShooting">
+        检查是否有东西挡住感应器，如果是，请移除
+    </sys:String>
+
+    <sys:String x:Key="Error13_Name">
+        Syinge Top Cover Sensor Present , Please Clear (X007 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error13_Description">
+        银胶顶盖感应器打开，请清除 (X007 开) !!
+    </sys:String>
+    <sys:String x:Key="Error13_TroubleShooting">
+        检查是否有东西挡住感应器，如果是，请移除
+    </sys:String>
+
+    <sys:String x:Key="Error14_Name">
+        Canister Body Sensor Present , Please Clear (X008 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error14_Description">
+        罐身感应器打开，请清除 (X008 开) !!
+    </sys:String>
+    <sys:String x:Key="Error14_TroubleShooting">
+        检查是否有东西挡住感应器，如果是，请移除
+    </sys:String>
+
+    <sys:String x:Key="Error15_Name">
+        30cc Syringe Bottom Cover Sensor Present , Please Clear (X009 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error15_Description">
+        30cc注射器底盖感应器打开，请清除 (X009 开) !!
+    </sys:String>
+    <sys:String x:Key="Error15_TroubleShooting">
+        检查是否有东西挡住感应器，如果是，请移除
+    </sys:String>
+
+    <sys:String x:Key="Error16_Name">
+        55cc Syringe Bottom Cover Sensor Present , please Clear (X010 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error16_Description">
+        55cc注射器底盖感应器打开，请清除 (X010 开) !!
+    </sys:String>
+    <sys:String x:Key="Error16_TroubleShooting">
+        检查是否有东西挡住感应器，如果是，请移除
+    </sys:String>
+
+    <sys:String x:Key="Error17_Name">
+        Null
+    </sys:String>
+    <sys:String x:Key="Error17_Description">
+        空
+    </sys:String>
+    <sys:String x:Key="Error17_TroubleShooting">
+        检查是否有东西挡住感应器，如果是，请移除
+    </sys:String>
+
+    <sys:String x:Key="Error18_Name">
+        Turn On Tower Light Failed !!
+    </sys:String>
+    <sys:String x:Key="Error18_Description">
+        打开塔灯失败 !!
+    </sys:String>
+    <sys:String x:Key="Error18_TroubleShooting">
+        Under Writing....
+    </sys:String>
+
+    <sys:String x:Key="Error19_Name">
+        Ejector A not Up , Please Check (X208 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error19_Description">
+        排出器A没有上升，请检查 (X208 关) !!
+    </sys:String>
+    <sys:String x:Key="Error19_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error20_Name">
+        Ejector A not Down , Please Check (X209 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error20_Description">
+        排出器A没有下降，请检查 (X209 关) !!
+    </sys:String>
+    <sys:String x:Key="Error20_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error21_Name">
+        Ejector B not Up , Please Check (X210 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error21_Description">
+        排出器B没有上升，请检查 (X208 关) !!
+    </sys:String>
+    <sys:String x:Key="Error21_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error22_Name">
+        Ejector B not Down , Please Check (X211 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error22_Description">
+        排出器B没有下降，请检查 (X209 关) !!
+    </sys:String>
+    <sys:String x:Key="Error22_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error23_Name">
+        Ejector C not Up , Please Check (X212 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error23_Description">
+        排出器C没有上升，请检查 (X208 关) !!
+    </sys:String>
+    <sys:String x:Key="Error23_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error24_Name">
+        Ejector C not Down , Please Check (X213 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error24_Description">
+        排出器C没有下降，请检查 (X209 关) !!
+    </sys:String>
+    <sys:String x:Key="Error24_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error25_Name">
+        Ejector D not  Up , Please Check (X214 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error25_Description">
+        排出器D没有上升，请检查 (X208 关) !!
+    </sys:String>
+    <sys:String x:Key="Error25_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error26_Name">
+        Ejector D not Down , Please Check (X215 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error26_Description">
+        排出器D没有下降，请检查 (X209 关) !!
+    </sys:String>
+    <sys:String x:Key="Error26_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 检查感应器的位置或状态
+            1.2 检查感应器电源接口
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管
+            2.2 检查电磁阀状态或电源接口
+            2.3 检查调节阀的状态 
+        3. 检查气缸是否被卡住/损坏
+    </sys:String>
+
+    <sys:String x:Key="Error27_Name">
+        Gate A not Close , Please Check (X108 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error27_Description">
+        A门没关，请检查(X108 关) !!
+    </sys:String>
+    <sys:String x:Key="Error27_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error28_Name">
+        Gate A not Open , Please Check (X109 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error28_Description">
+        A门没开，请检查 (X109 关) !!
+    </sys:String>
+    <sys:String x:Key="Error28_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error29_Name">
+        Gate B not Close , Please Check (X110 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error29_Description">
+        B门没关，请检查 (X110 关) !!
+    </sys:String>
+    <sys:String x:Key="Error29_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error30_Name">
+        Gate B not Open , Please Check (X111 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error30_Description">
+        B门没开，请检查 (X111 关) !!
+    </sys:String>
+    <sys:String x:Key="Error30_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error31_Name">
+        Gate C not Close , Please Check (X112 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error31_Description">
+        C门没关，请检查 (X112 关) !!
+    </sys:String>
+    <sys:String x:Key="Error31_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error32_Name">
+        Gate C not Open , Please Check (X113 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error32_Description">
+        C门没开，请检查 (X113 关) !!
+    </sys:String>
+    <sys:String x:Key="Error32_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error33_Name">
+        Gate D not Close , Please Check (X114 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error33_Description">
+        D门没关，请检查 (X114 关) !!
+    </sys:String>
+    <sys:String x:Key="Error33_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error34_Name">
+        Gate D not Open , Please Check (X115 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error34_Description">
+        D门没开，请检查 (X115 关) !!
+    </sys:String>
+    <sys:String x:Key="Error34_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error35_Name">
+        Load Window not Close , Please Check (X002 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error35_Description">
+        放料门没有关闭，请检查 (X002 关) !!
+    </sys:String>
+    <sys:String x:Key="Error35_TroubleShooting">
+        Under Writing....
+    </sys:String>
+
+    <sys:String x:Key="Error36_Name">
+        Load Window not Open , Please Check (X002 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error36_Description">
+        放料门没有打开，请检查 (X002 开) !!
+    </sys:String>
+    <sys:String x:Key="Error36_TroubleShooting">
+        1. 放料门没有打开
+        2. 检查感应器
+    </sys:String>
+
+    <sys:String x:Key="Error37_Name">
+        Thawing Box Door not Open , Please Check (X003 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error37_Description">
+        解冻箱门没有打开，请检查 (X003 关) !!
+    </sys:String>
+    <sys:String x:Key="Error37_TroubleShooting">
+        Under Writing....
+    </sys:String>
+
+    <sys:String x:Key="Error38_Name">
+        Thawing Box Door not Close , Please Check (X003 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error38_Description">
+        解冻箱门没有关闭，请检查 (X003 开) !!
+    </sys:String>
+    <sys:String x:Key="Error38_TroubleShooting">
+        1. 解冻箱门没有关闭
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error39_Name">
+        Scrap Channel Door not Close , Please Check (X202 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error39_Description">
+        报废通道门没有关闭，请检查 (X202 关) !!
+    </sys:String>
+    <sys:String x:Key="Error39_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error40_Name">
+        Scrap Channel Door not Open , Please Check (X203 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error40_Description">
+        报废通道门没有打开，请检查 (X203 关) !!
+    </sys:String>
+    <sys:String x:Key="Error40_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error41_Name">
+        Weight Scale Plate not Forward , Please Check (X204 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error41_Description">
+        天枰称平台没有向前，请检查 (X204 关) !!
+    </sys:String>
+    <sys:String x:Key="Error41_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error42_Name">
+        Weight Scale Plate not Backward , Please Check (X205 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error42_Description">
+        天枰称平台没有向后，请检查 (X205 关) !!
+    </sys:String>
+    <sys:String x:Key="Error42_TroubleShooting">
+        1. 检查气缸的感应器
+            1.1 感应器位置是否偏差或损坏
+            1.2 感应器电源接口是否松动
+        2. 检查压缩空气的回路
+            2.1 检测气缸的2根气管是否能正常工作 (Y112A / B)
+            2.2 检查电磁阀工作是否正常
+            2.3 检查调节阀的状态 (Y112A / B)
+            2.4 检查调节阀是否装反(小三角形接进气端)
+    </sys:String>
+
+    <sys:String x:Key="Error43_Name">
+        Scrap Drawer 1 not Close , Please Check (X200 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error43_Description">
+        报废抽屉1没有关闭，请检查 (X200 关) !!
+    </sys:String>
+    <sys:String x:Key="Error43_TroubleShooting">
+        1. 抽屉没有完全关闭
+        2. 检查感应器
+    </sys:String>
+
+    <sys:String x:Key="Error44_Name">
+        Scrap Drawer 1 not Open , Please Check (X200 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error44_Description">
+        报废抽屉1没有打开，请检查 (X200 开) !!
+    </sys:String>
+    <sys:String x:Key="Error44_TroubleShooting">
+        1. 抽屉打开
+        2. 检查感应器
+    </sys:String>
+
+    <sys:String x:Key="Error45_Name">
+        Scrap Drawer 2 not Close , Please Check (X201 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error45_Description">
+        报废抽屉2没有关闭，请检查 (X201 关) !!
+    </sys:String>
+    <sys:String x:Key="Error45_TroubleShooting">
+        1. 抽屉没有完全关闭
+        2. 检查感应器
+    </sys:String>
+
+    <sys:String x:Key="Error46_Name">
+        Scrap Drawer 2 not Open , Please Check (X201 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error46_Description">
+        报废抽屉2没有打开，请检查 (X201 开) !!
+    </sys:String>
+    <sys:String x:Key="Error46_TroubleShooting">
+        1. 抽屉没有完全关闭
+        2. 检查感应器
+    </sys:String>
+
+    <sys:String x:Key="Error47_Name">
+        Homing Failed  !!
+    </sys:String>
+    <sys:String x:Key="Error47_Description">
+       初始化失败  !!
+    </sys:String>
+    <sys:String x:Key="Error47_TroubleShooting">
+        1. 检查感应器状态
+        2. 检查挡片的位置
+        3. 检查马达皮带状态
+    </sys:String>
+
+    <sys:String x:Key="Error48_Name">
+        Motion Failed !!
+    </sys:String>
+    <sys:String x:Key="Error48_Description">
+        马达移动失败 !!
+    </sys:String>
+    <sys:String x:Key="Error48_TroubleShooting">
+        1. 检查4个排出器是否下降
+        2. 位置不准
+        3. 马达卡损坏
+    </sys:String>
+
+    <sys:String x:Key="Error49_Name">
+        Motion Failed !!
+    </sys:String>
+    <sys:String x:Key="Error49_Description">
+        马达移动失败 !!
+    </sys:String>
+    <sys:String x:Key="Error49_TroubleShooting">
+        1. 检查4个排出器是否下降
+        2. 位置不准
+        3. 马达卡损坏
+    </sys:String>
+
+    <sys:String x:Key="Error50_Name">
+        Non Positon Index Parameter, Please Contact With Admin !!
+    </sys:String>
+    <sys:String x:Key="Error50_Description">
+        没有位置圈数的参数，请联系管理员 !!
+    </sys:String>
+    <sys:String x:Key="Error50_TroubleShooting">
+        Under Writing....
+    </sys:String>
+
+    <sys:String x:Key="Error51_Name">
+        Unknown Solder Paste A , Please Check (X104 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error51_Description">
+        未知的Solder Paste A , 请检查 (X104 开) !!
+    </sys:String>
+    <sys:String x:Key="Error51_TroubleShooting">
+        1. 没有取出solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error52_Name">
+        Unknown Syringe A , Please Check (X100 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error52_Description">
+        未知的注射器A，请检查 (X100 开) !!
+    </sys:String>
+    <sys:String x:Key="Error52_TroubleShooting">
+        1. 没有取出注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error53_Name">
+        Time Out to Close Loading Window , Please Check (X002 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error53_Description">
+        超过关闭放料门的时间规定，请检查 (X002 关) !!
+    </sys:String>
+    <sys:String x:Key="Error53_TroubleShooting">
+        1. 放料门没有关闭
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error54_Name">
+        Unknown Solder Paste B , Please Check (X105 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error54_Description">
+        未知的Solder Paste B , 请检查 (X105 开) !!
+    </sys:String>
+    <sys:String x:Key="Error54_TroubleShooting">
+        1. 没有取出solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error55_Name">
+        Unknown Syringe B , Please Check (X101 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error55_Description">
+        未知的注射器B，请检查 (X101 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error55_TroubleShooting">
+        1. 没有取出注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error56_Name">
+        Solder Paste A not Present , Please Check (X104 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error56_Description">
+        没有检测到Solder Paste A , 请检查 (X104 关) !!
+    </sys:String>
+    <sys:String x:Key="Error56_TroubleShooting">
+        1. 没有放入solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error57_Name">
+        Solder Paste B not Present , Please Check (X105 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error57_Description">
+        没有检测到Solder Paste B , 请检查 (X105 关) !!
+    </sys:String>
+    <sys:String x:Key="Error57_TroubleShooting">
+        1. 没有放入solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error58_Name">
+        Solder Paste C not Present , Please Check (X106 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error58_Description">
+        没有检测到Solder Paste C , 请检查 (X106 关) !!
+    </sys:String>
+    <sys:String x:Key="Error58_TroubleShooting">
+        1. 没有放入solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error59_Name">
+        Solder Paste D not Present , Please Check (X107 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error59_Description">
+        没有检测到Solder Paste D , 请检查 (X107 关) !!
+    </sys:String>
+    <sys:String x:Key="Error59_TroubleShooting">
+        1. 没有放入solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error60_Name">
+        Unknown Solder Paste C , Please Check (X106 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error60_Description">
+        未知的Solder Paste C ,请检查 (X106 开) !!
+    </sys:String>
+    <sys:String x:Key="Error60_TroubleShooting">
+        1. 没有取出solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error61_Name">
+        Unkonwn Solder Paste D , Please Check (X107 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error61_Description">
+        未知的 Solder Paste D , 请检查 (X107 开) !!
+    </sys:String>
+    <sys:String x:Key="Error61_TroubleShooting">
+        1. 没有取出solder paste
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error62_Name">
+        Unkonwn Syringe C , Please Check (X102 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error62_Description">
+        未知的注射器C , 请检查 (X102 开) !!
+    </sys:String>
+    <sys:String x:Key="Error62_TroubleShooting">
+        1. 没有取出注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error63_Name">
+        Unkonwn Syringe D , Please Check (X103 not Off) !!
+    </sys:String>
+    <sys:String x:Key="Error63_Description">
+        未知的注射器D , 请检查 (X103 开) !!
+    </sys:String>
+    <sys:String x:Key="Error63_TroubleShooting">
+        1. 没有取出注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error64_Name">
+        Need homing first !!
+    </sys:String>
+    <sys:String x:Key="Error64_Description">
+        请先初始化 !!
+    </sys:String>
+    <sys:String x:Key="Error64_TroubleShooting">
+        Under Writing....
+    </sys:String>
+
+    <sys:String x:Key="Error65_Name">
+        Syringe A not Present , Please Check (X100 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error65_Description">
+        没有检测到注射器A , 请检查 (X100 关) !!
+    </sys:String>
+    <sys:String x:Key="Error65_TroubleShooting">
+        1. 没有放入注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error66_Name">
+        Syringe B not Present , Please Check (X101 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error66_Description">
+        没有检测到注射器B , 请检查 (X101 关) !!
+    </sys:String>
+    <sys:String x:Key="Error66_TroubleShooting">
+        1. 没有放入注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error67_Name">
+        Syringe C not Present , Please Check (X102 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error67_Description">
+        没有检测到注射器C , 请检查 (X102 关) !!
+    </sys:String>
+    <sys:String x:Key="Error67_TroubleShooting">
+        1. 没有放入注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error68_Name">
+        Syringe D not Present , Please Check (X103 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error68_Description">
+        没有检测到注射器D , 请检查 (X103 关) !!
+    </sys:String>
+    <sys:String x:Key="Error68_TroubleShooting">
+        1. 没有放入注射器
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error69_Name">
+        Update Server Database Failed , Please Try Again !!
+    </sys:String>
+    <sys:String x:Key="Error69_Description">
+        更新服务器失败，请再试一次 !!
+    </sys:String>
+    <sys:String x:Key="Error69_TroubleShooting">
+        检查网络连接
+    </sys:String>
+
+    <sys:String x:Key="Error70_Name">
+        Update Local Database Failed , Please Try Again !!
+    </sys:String>
+    <sys:String x:Key="Error70_Description">
+        更新本地服务器失败，请再试一次 !!
+    </sys:String>
+    <sys:String x:Key="Error70_TroubleShooting">
+        检查网络连接
+    </sys:String>
+
+    <sys:String x:Key="Error71_Name">
+        Scrap Drawer 1 not Present Material , Please Throw it in (X206 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error71_Description">
+        报废抽屉1没有检测到物品进入，请把物品放进去 (X206 关) !!
+    </sys:String>
+    <sys:String x:Key="Error71_TroubleShooting">
+        1. 没有放入物品
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error72_Name">
+        Scrap Drawer 2 not Present Material , Please Throw it in (X207 not On) !!
+    </sys:String>
+    <sys:String x:Key="Error72_Description">
+        报废抽屉2没有检测到物品进入， 请把物品放进去 (X207 关) !!
+    </sys:String>
+    <sys:String x:Key="Error72_TroubleShooting">
+        1. 没有放入物品
+        2. 检查感应器状态
+    </sys:String>
+
+    <sys:String x:Key="Error73_Name">
+        Reject Barcode !!
+    </sys:String>
+    <sys:String x:Key="Error73_Description">
+        错误的条形码 !!
+    </sys:String>
+    <sys:String x:Key="Error73_TroubleShooting">
+        1. 请检查条形码是否向上
+        2. 请检查标签是否受损
+        3. 请检查是否放入正确的物品
+    </sys:String>
+    <sys:String x:Key="Error74_Name">
+        Return weight cannot be less than low limit !!
+    </sys:String>
+    <sys:String x:Key="Error74_Description">
+        Return weight cannot be less than low limit !!
+    </sys:String>
+    <sys:String x:Key="Error74_TroubleShooting">
+        1. Please call your supervisor
+    </sys:String>
+
+    <!--================================================== Trouble Shooting List End ================================================-->
+    <!--===========Dwyane==========-->
+    <sys:String x:Key="MaterialType">
+        材料种类 :
+    </sys:String>
+    <sys:String x:Key="PartID">
+        Part ID :
+    </sys:String>
+    <sys:String x:Key="QTY">
+        库存数量 :
+    </sys:String>
+    <sys:String x:Key="BinLoc">
+        仓位 :
+    </sys:String>
+    <sys:String x:Key="PartNo">
+        PART_NO :
+    </sys:String>
+    <sys:String x:Key="BatchNo">
+        批次 :
+    </sys:String>
+    <sys:String x:Key="import">
+        导入
+    </sys:String>
+    <sys:String x:Key="execute">
+        执行
+    </sys:String>
+    <sys:String x:Key="ClearData">
+        清空现有数据
+    </sys:String>
+    <sys:String x:Key="ImportStorage">
+       导入库存信息
+    </sys:String>
+    <sys:String x:Key="StorageInfoUpdate">
+       更新库存信息
+    </sys:String>
+    <sys:String x:Key="ImportMaterialPart">
+        导入PartNo
+    </sys:String>
+    <!--===========Dwyane==========-->
+</ResourceDictionary>

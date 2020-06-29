@@ -1,0 +1,189 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:System="clr-namespace:System;assembly=mscorlib" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:Magazine_Views="clr-namespace:VI_eLog.Views" mc:Ignorable="d"
+	x:Class="VI_eLog.Views.Login"
+	x:Name="Window"
+	Title="Login"
+	Width="585.895" Height="338.158" ResizeMode="NoResize" WindowStyle="None" Topmost="False"
+	HorizontalAlignment="Center" VerticalAlignment="Center" 
+	WindowStartupLocation="CenterScreen" 
+	AllowsTransparency="True" Background="#4C000000">
+
+    <Window.Resources>
+        <!--================================================== User Login =================================================-->
+        <Storyboard x:Key="sb_password">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="grid">
+                <SplineDoubleKeyFrame KeyTime="0" Value="0"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:0.5" Value="65"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="grid">
+                <SplineDoubleKeyFrame KeyTime="0" Value="0"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="pas_grid">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="pas_grid">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.5" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="Error_Img">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Collapsed}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="sb_imgExist"/>
+        <Storyboard x:Key="sb_register">
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Margin)" Storyboard.TargetName="img_capture">
+                <SplineThicknessKeyFrame KeyTime="0" Value="628.687,92,11.799,403"/>
+            </ThicknessAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="img_capture">
+                <SplineDoubleKeyFrame KeyTime="0" Value="0.094"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1" Value="1.394"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="img_capture">
+                <SplineDoubleKeyFrame KeyTime="0" Value="-37.5"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1" Value="-34"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="img_capture">
+                <SplineDoubleKeyFrame KeyTime="0" Value="0.154"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1" Value="6.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="img_capture">
+                <SplineDoubleKeyFrame KeyTime="0" Value="-16.5"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1" Value="111.5"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+
+    <Grid x:Name="LayoutRoot" Margin="0,8,10,10" Background="{DynamicResource ButtonNormalBackground}" HorizontalAlignment="Right" Width="566">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="293*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+        <Image HorizontalAlignment="Right" Height="69" Margin="0,5,187,0" VerticalAlignment="Top" Width="75" >
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Rectangle Margin="8,81,7,0" Stroke="#FF4D4C4C" Height="2" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Top" Fill="#FF626161">
+            <Rectangle.Effect>
+                <DropShadowEffect ShadowDepth="1" Direction="65"/>
+            </Rectangle.Effect>
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Label x:Name="lb_userID" Content="{DynamicResource LP_userID}" FontSize="20" Background="Transparent" Foreground="#FF060606" Height="35" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="97" Margin="118,0,0,135"/>
+        <Label x:Name="lb_Password" Content="{DynamicResource LP_password}" FontSize="20" Background="Transparent" Foreground="#FF060606" Height="35" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="115" Margin="100,0,0,83"/>
+
+        <Grid x:Name="pas_grid" Margin="244,204,241,65" Visibility="Collapsed">
+            <Label x:Name="lb_password" Content="{DynamicResource LP_password}" FontSize="20" Background="Transparent" Foreground="#FF0C0C0C" Margin="12.902,12.835,0,18.165" HorizontalAlignment="Left" Width="110" RenderTransformOrigin="0.464,0.429">
+                <Label.Effect>
+                    <DropShadowEffect ShadowDepth="3"/>
+                </Label.Effect>
+            </Label>
+            <PasswordBox Height="23" Margin="124.902,0,0,23.165" x:Name="txt_pas" IsEnabled="False" VerticalAlignment="Bottom" Password="" HorizontalAlignment="Left" Width="215" >
+                <PasswordBox.Effect>
+                    <DropShadowEffect ShadowDepth="0" BlurRadius="8"/>
+                </PasswordBox.Effect>
+            </PasswordBox>
+        </Grid>
+        <Grid x:Name="grid" Margin="98,0,0,5" RenderTransformOrigin="0.5,0.5" Height="60" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="321">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Button Margin="38,10,0,13" x:Name="btn_login"  HorizontalContentAlignment="Right" FontSize="16" HorizontalAlignment="Left" Width="107" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" Foreground="{DynamicResource ButtonNormalBackground}" Cursor="Hand" TabIndex="3" Focusable="False" Background="{DynamicResource ButtonNormalBackground}" d:LayoutOverrides="HorizontalAlignment, GridBox" Click="btn_login_Click">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Button.ContextMenu>
+                    <ContextMenu/>
+                </Button.ContextMenu>
+                <Button.Effect>
+                    <DropShadowEffect ShadowDepth="0"/>
+                </Button.Effect>
+                <Grid Height="36" Width="99">
+                    <Label Content="{DynamicResource LP_login}" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="31" Margin="0,-1,25,6"/>
+                </Grid>
+            </Button>
+            <Button Margin="184.997,10,29.002,13" x:Name="btn_cancel"  HorizontalContentAlignment="Right" FontWeight="Bold" FontSize="16" RenderTransformOrigin="0.5,0.5" Cursor="Hand" Foreground="Black" Focusable="False" Background="{DynamicResource ButtonNormalBackground}" Width="107" Click="btn_cancel_Click">
+                <Button.ContextMenu>
+                    <ContextMenu/>
+                </Button.ContextMenu>
+                <Button.Effect>
+                    <DropShadowEffect ShadowDepth="0"/>
+                </Button.Effect>
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Grid Height="36" Width="107">
+
+                    <Label Content="{DynamicResource LP_cancel}" HorizontalAlignment="Right" Margin="0,0,21,5" VerticalAlignment="Bottom" Height="31"/>
+                </Grid>
+            </Button>
+        </Grid>
+        <Image x:Name="img_capture" Margin="691,105,-125,164" RenderTransformOrigin="0.5,0.5" Stretch="Fill">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Grid x:Name="Error_Img" Height="63" Margin="0,0,260,29" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="294">
+        </Grid>
+        <Label Content="{DynamicResource LP_userLogin}" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="96,-7,0,0" FontSize="52" Height="87" Width="349" VerticalAlignment="Top" Foreground="Black"/>
+        <PasswordBox x:Name="txt_userID" Margin="215,0,0,143" FontSize="14.667" KeyDown="txt_userID_KeyDown" Height="21" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="205">
+            <PasswordBox.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="10"/>
+            </PasswordBox.Effect>
+        </PasswordBox>
+        <PasswordBox x:Name="txt_Password" Margin="215,0,0,90" VerticalAlignment="Bottom" FontSize="14.667" KeyDown="txt_Password_KeyDown" HorizontalAlignment="Left" Width="205" Height="21">
+            <PasswordBox.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="10"/>
+            </PasswordBox.Effect>
+        </PasswordBox>
+        <!--<Rectangle Margin="12,0,13,170.501" Stroke="#FF4D4C4C" Height="2" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Bottom" Fill="#FF626161">
+            <Rectangle.Effect>
+                <DropShadowEffect ShadowDepth="1" Direction="65"/>
+            </Rectangle.Effect>
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>-->
+        <!--<Magazine_Views:KeyBoard x:Name="kb" Margin="-1.334,0,3.333,-0.99" VerticalAlignment="Bottom"  Background="{x:Null}"/>-->
+    </Grid>
+</Window>

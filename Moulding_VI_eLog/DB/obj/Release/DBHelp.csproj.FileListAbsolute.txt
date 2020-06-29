@@ -1,0 +1,4 @@
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\DB\DB\bin\Release\DBHelp.dll
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\DB\DB\bin\Release\DBHelp.pdb
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\DB\DB\obj\Release\DBHelp.dll
+D:\Porjects\Projects\LMMS\SRC\MMS-Interface\DB\DB\obj\Release\DBHelp.pdb

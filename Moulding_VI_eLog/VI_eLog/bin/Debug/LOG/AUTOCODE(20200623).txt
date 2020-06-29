@@ -1,0 +1,5 @@
+20200623 16:48:16 下午 -- [|Debug Log|][NameSpace:Common.DAL][Class:User_DB_DAL][Function:		public Common.Model.User_DB_Model GetModel()TableName:User_DB][]
+20200623 16:49:40 下午 -- [|Debug Log|][NameSpace:Common.DAL][Class:User_DB_DAL][Function:		public Common.Model.User_DB_Model GetModel()TableName:User_DB][]
+20200623 16:49:40 下午 -- [|Debug Log|][NameSpace:Common.DAL][Class:MouldingViTracking_DAL][Function:		public DataSet GetModel_ByDayShiftPart(DateTime curDay, string curShift, string partNumber , string machineID)TableName:MouldingViTracking][]
+20200623 16:51:10 下午 -- [|Debug Log|][NameSpace:Common.DAL][Class:User_DB_DAL][Function:		public Common.Model.User_DB_Model GetModel()TableName:User_DB][]
+20200623 16:51:10 下午 -- [|Debug Log|][NameSpace:Common.DAL][Class:MouldingViTracking_DAL][Function:		public DataSet GetModel_ByDayShiftPart(DateTime curDay, string curShift, string partNumber , string machineID)TableName:MouldingViTracking][]

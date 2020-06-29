@@ -1,0 +1,2 @@
+D:\Porjects\Projects\Taiyo\Moulding\Src\Testing\UMS\UBCT Management System Ver 2.0\bin\Debug\UBCT Management System Ver 2.0.exe.config
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\UBCT Management System Ver 2.0.exe.config

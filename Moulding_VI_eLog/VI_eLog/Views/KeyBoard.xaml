@@ -1,0 +1,230 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="VI_eLog.Views.KeyBoard"
+	x:Name="UserControl"
+	Width="810" Height="175">
+
+	<Border x:Name="LayoutRoot" BorderThickness="0,1,0,0">
+		<WrapPanel Height="175" Margin="6,0,-5,-1">
+			<Button Width="48" Height="48"  Content="Q" Focusable="False" Margin="5,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Height="48"  Content="W" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Height="48"  Content="E" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Height="48"  Content="R" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Height="48"  Content="T" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Height="48"  Content="Y" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="48" Content="U"  Focusable="False" Width="48" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Height="48"  Content="I" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="48" Content="O"  Width="48" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="48" Content="P"  Width="48" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="48" Content="1"  Width="48" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="48" Content="2"  Width="48" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="48" Content="3"  Width="48" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="48" Content="0"  Width="48" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Height="50" Content="&lt;-BackSpace"  Width="92" Focusable="False" Margin="2,7,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="A"  Focusable="False" Height="48" Margin="5,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="S"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Focusable="False"  Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" Content="D" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand" >
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="F" Width="48"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="G"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="H"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="J"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="K"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="L"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="+" Focusable="False"  Width="48" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="4"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="5" Width="48"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="6" Width="48"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="." Width="48"  Focusable="False" Height="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="Enter"  Width="91" Focusable="False" Height="50" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="98" Content="Undo"  Height="48" Focusable="False" Margin="5,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="Z"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="X" Width="48"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="C"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="V"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="B"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="N"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="M"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="-" Height="48"  Focusable="False" Width="48" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Width="48" Content="7"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="8" Width="48"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="9" Width="48"  Height="48" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+			<Button Content="Space"  Width="141" Height="50" Focusable="False" Margin="2,5,0,0" Click="btn_KeyBoard_Click" FontSize="13.333" FontWeight="Bold" Background="#FFBAB9B9" Cursor="Hand">
+				<Button.Effect>
+					<DropShadowEffect/>
+				</Button.Effect>
+			</Button>
+		</WrapPanel>
+	</Border>
+</UserControl>

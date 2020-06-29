@@ -1,0 +1,7 @@
+20190828 10:05:26 上午 -- [|Debug Log|][RefreshVidata modellife][Visuallnspection][][System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@MachineID varchar(1),@PartNumberAll varchar(19),@Accumulate in' 需要参数 '@MouldLife'，但未提供该参数。
+   在 DBHelp.SqlDB.ExecuteSql(String strSql, SqlParameter[] parameters) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\DB\DBHelp\SqlDB.cs:行号 32
+   在 Common.DAL.MouldingMoldLife_DAL.Add(MouldingMoldLife model) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\Class\DAL\MouldingMoldLife_DAL.cs:行号 136
+   在 Common.BLL.MouldingMoldLife_BLL.Add(MouldingMoldLife model) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\Common\Class\BLL\MouldingMoldLife_BLL.cs:行号 22
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1869
+ClientConnectionId:6877a597-a446-46b2-b6a2-055fd5638fc3
+Error Number:8178,State:1,Class:16]

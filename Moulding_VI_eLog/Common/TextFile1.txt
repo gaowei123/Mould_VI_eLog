@@ -1,0 +1,127 @@
+﻿     #region MyRegion
+        public SqlCommand InsertInvnetorySnapShot(string sType, string Value, DateTime dateFrom, DateTime dateTo)
+        {
+            /****** Script for SelectTopNRows command from SSMS  ******/
+            StringBuilder strSql = new StringBuilder();
+            strSql.Append(" select* from(  ");
+            strSql.Append(" SELECT BOM.MATERIAL_TYPE, BOM.PART_NO, BOM.SITE_CODE                                                                                                     ");
+            strSql.Append(" , isnull(EOH_0.EOH, 0) + isnull(TB_OUTPUT_0.OUTPUT, 0) - isnull(TB_INPUT_0.INPUT, 0) + isnull(TB_OUTPUT.OUTPUT, 0) - isnull(TB_INPUT.INPUT, 0) AS BOH    ");
+            strSql.Append(" , isnull(TB_INPUT.INPUT, 0) as input                                                                                                                     ");
+            strSql.Append(" , isnull(TB_OUTPUT.OUTPUT, 0) as [output]                                                                                                                ");
+            strSql.Append(" , isnull(EOH_0.EOH, 0) + isnull(TB_OUTPUT_0.OUTPUT, 0) - isnull(TB_INPUT_0.INPUT, 0)  AS EOH                                                            ");
+            strSql.Append(" , isnull(EOH_0.EOH, 0) as EOH0                                                                                                                           ");
+            strSql.Append(" , isnull(TB_INPUT_0.INPUT, 0) as input0                                                                                                                  ");
+            strSql.Append(" , isnull(TB_OUTPUT_0.OUTPUT, 0) as output0                                                                                                               ");
+            strSql.Append(" FROM                                                                                                                                                     ");
+            strSql.Append(" (SELECT DISTINCT[MATERIAL_TYPE]                                                                                                                          ");
+            strSql.Append("      ,[PART_NO]                                                                                                                                          ");
+            strSql.Append("      ,[SITE_CODE]                                                                                                                                        ");
+            strSql.Append("  FROM[P189].[dbo].[LM_MATERIAL_STORAGE_HIS]) AS BOM                                                                                                      ");
+            strSql.Append("  LEFT JOIN                                                                                                                                               ");
+            strSql.Append(" (SELECT[MATERIAL_TYPE]                                                                                                                                   ");
+            strSql.Append("      ,[PART_NO]                                                                                                                                          ");
+            strSql.Append("      ,[SITE_CODE]                                                                                                                                        ");
+            strSql.Append("      , ISNULL(SUM([QTY]), 0)  AS[INPUT]                                                                                                                  ");
+            strSql.Append("      ,[LAST_EVENT]                                                                                                                                       ");
+            strSql.Append("  FROM[P189].[dbo].[LM_MATERIAL_STORAGE_HIS]                                                                                                              ");
+            strSql.Append("  where UPDATED_TIME >= @dateFrom and UPDATED_TIME <= @dateTo                                                                                    ");
+            strSql.Append("  and ID not like 'RS%'                                                                                                                                   ");
+            strSql.Append("  AND LAST_EVENT = 'Load'                                                                                                                                 ");
+            strSql.Append("  group by material_type, part_no, site_code, last_event ) AS TB_INPUT                                                                                    ");
+            strSql.Append("  on BOM.MATERIAL_TYPE = TB_INPUT.MATERIAL_TYPE AND BOM.PART_NO = TB_INPUT.PART_NO AND BOM.SITE_CODE = TB_INPUT.SITE_CODE                                            ");
+            strSql.Append("  LEFT JOIN                                                                                                                                                          ");
+            strSql.Append("  (SELECT[MATERIAL_TYPE]                                                                                                                                             ");
+            strSql.Append("      ,[PART_NO]                                                                                                                                                     ");
+            strSql.Append("      ,[SITE_CODE]                                                                                                                                                   ");
+            strSql.Append("      , ISNULL(SUM([QTY]), 0)  AS[OUTPUT]                                                                                                                            ");
+            strSql.Append("      ,[LAST_EVENT]                                                                                                                                                  ");
+            strSql.Append("        FROM[P189].[dbo].[LM_MATERIAL_STORAGE_HIS]                                                                                                                   ");
+            strSql.Append("        where UPDATED_TIME >= @dateFrom and UPDATED_TIME <= @dateTo                                                                                         ");
+            strSql.Append("  and ID not like 'RS%'                                                                                                                                              ");
+            strSql.Append("  AND LAST_EVENT = 'UNLOAD'                                                                                                                                          ");
+            strSql.Append("  group by material_type,  part_no, site_code, last_event ) AS TB_OUTPUT                                                                                             ");
+            strSql.Append("  on BOM.MATERIAL_TYPE = TB_OUTPUT.MATERIAL_TYPE AND BOM.PART_NO= TB_OUTPUT.PART_NO AND BOM.SITE_CODE = TB_OUTPUT.SITE_CODE                                          ");
+            strSql.Append("   LEFT JOIN                                                                                                                                                         ");
+            strSql.Append("   (SELECT[MATERIAL_TYPE]                                                                                                                                            ");
+            strSql.Append("      , [PART_NO]                                                                                                                                                    ");
+            strSql.Append("      , [SITE_CODE]                                                                                                                                                  ");
+            strSql.Append("      , ISNULL(SUM([QTY]),0)  AS[EOH]                                                                                                                                ");
+            strSql.Append("  FROM[P189].[dbo].[LM_MATERIAL_STORAGE]                                                                                                                             ");
+            strSql.Append("        where  1=1                                                                                                                                                   ");
+            strSql.Append("  group by material_type,  part_no, site_code ) AS EOH_0                                                                                                             ");
+            strSql.Append("   on BOM.MATERIAL_TYPE = EOH_0.MATERIAL_TYPE AND BOM.PART_NO= EOH_0.PART_NO AND BOM.SITE_CODE = EOH_0.SITE_CODE                                                     ");
+            strSql.Append("   LEFT JOIN                                                                                                                                                         ");
+            strSql.Append("  (SELECT[MATERIAL_TYPE]                                                                                                                                             ");
+            strSql.Append("      , [PART_NO]                                                                                                                                                    ");
+            strSql.Append("      , [SITE_CODE]                                                                                                                                                  ");
+            strSql.Append("      , ISNULL(SUM([QTY]),0)  AS[INPUT]                                                                                                                              ");
+            strSql.Append("      ,[LAST_EVENT]                                                                                                                                                  ");
+            strSql.Append("        FROM[P189].[dbo].[LM_MATERIAL_STORAGE_HIS]                                                                                                                   ");
+            strSql.Append("        where UPDATED_TIME >= @dateTo  and UPDATED_TIME <= GETDATE()                                                                                             ");
+            strSql.Append("  and ID not like 'RS%'                                                                                                                                              ");
+            strSql.Append("  AND LAST_EVENT = 'Load'                                                                                                                                            ");
+            strSql.Append("  group by material_type,  part_no, site_code, last_event ) AS TB_INPUT_0                                                                                            ");
+            strSql.Append("    on BOM.MATERIAL_TYPE = TB_INPUT_0.MATERIAL_TYPE AND BOM.PART_NO= TB_INPUT_0.PART_NO AND BOM.SITE_CODE = TB_INPUT_0.SITE_CODE                                     ");
+            strSql.Append("   LEFT JOIN                                                                                                                                                         ");
+            strSql.Append("  (SELECT[MATERIAL_TYPE]                                                                                                                                             ");
+            strSql.Append("      , [PART_NO]                                                                                                                                                    ");
+            strSql.Append("      , [SITE_CODE]                                                                                                                                                  ");
+            strSql.Append("      , ISNULL(SUM([QTY]),0)  AS[OUTPUT]                                                                                                                             ");
+            strSql.Append("      ,[LAST_EVENT]                                                                                                                                                  ");
+            strSql.Append("        FROM[P189].[dbo].[LM_MATERIAL_STORAGE_HIS]                                                                                                                   ");
+            strSql.Append("        where UPDATED_TIME >= @dateTo and UPDATED_TIME <= GETDATE()                                                                                             ");
+            strSql.Append("  and ID not like 'RS%'                                                                                                                                              ");
+            strSql.Append("  AND LAST_EVENT = 'UNLOAD'                                                                                                                                          ");
+            strSql.Append("  group by material_type,  part_no, site_code, last_event ) AS TB_OUTPUT_0                                                                                           ");
+            strSql.Append("     on BOM.MATERIAL_TYPE = TB_OUTPUT_0.MATERIAL_TYPE AND BOM.PART_NO= TB_OUTPUT_0.PART_NO AND BOM.SITE_CODE = TB_OUTPUT_0.SITE_CODE                                 ");
+            strSql.Append("    ) Invl                                                                                                                                                           ");
+            strSql.Append("    where Invl.BOH<> 0  or Invl.EOH<>0 or Invl.input<>0 or Invl.output<>0 or Invl.input0<>0 or Invl.output0<>0 or Invl.eoh0<>0                                       ");
+            strSql.Append("   order by invl.PART_NO                                                                                                                                             ");
+
+
+            SqlParameter[] parameters = {
+                    new SqlParameter("@dateFrom", SqlDbType.DateTime),
+                    new SqlParameter("@dateTo", SqlDbType.DateTime)
+            };
+            DBHelp.Reports.LogFile.DebugLog("AUTOCODE", "NameSpace:Common.DAL", "Class:LM_MATERIAL_STORAGE_HIS_DAL", "Function:		public void InsertInvnetorySnapShot()","");
+
+            parameters[0].Value = dateFrom;
+            parameters[1].Value = dateTo;
+            
+
+            return DBHelp.SqlDB.generateCommand(strSql.ToString(), parameters);
+        }
+
+        #endregion
+   
+
+
+
+      public SqlCommand DeleteCommand(string sType, string sValue)
+        {
+            //该表无主键信息，请自定义主键/条件字段
+            return dal.DeleteCommand(sType, sValue);
+        }
+
+
+		    #region MyRegion
+        /// <summary>
+        /// 删除一条数据
+        /// </summary>
+        public SqlCommand DeleteCommand(string sType, string sValue)
+        {
+            //该表无主键信息，请自定义主键/条件字段
+            StringBuilder strSql = new StringBuilder();
+            strSql.Append("delete from LM_INVENOTRY_SNAPSHOT where [Type]= @Type and [Value] = @Value ");
+            SqlParameter[] parameters = {
+                    new SqlParameter("@Type", SqlDbType.VarChar, 255),
+                    new SqlParameter("@Value", SqlDbType.VarChar, 255)
+             };
+            parameters[0].Value = sType;
+            parameters[1].Value = sValue;
+
+            DBHelp.Reports.LogFile.DebugLog("AUTOCODE", "NameSpace:Common.DAL", "Class:LM_INVENOTRY_SNAPSHOT_DAL", "Function:		public SqlCommand DeleteCommand()" + "TableName:LM_INVENOTRY_SNAPSHOT", "[Type="+ sType + "][Value="+ sValue + "]");
+            return DBHelp.SqlDB.generateCommand(strSql.ToString(), parameters);
+        }
+
+        #endregion

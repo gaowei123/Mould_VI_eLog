@@ -1,0 +1,1485 @@
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.application
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Common.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\DBHelp.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\nGantt.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\StaticRes.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Common.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\App.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\nGantt.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\StaticRes.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\App.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\nGantt.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\StaticRes.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\App.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog - 828\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\nGantt.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\StaticRes.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\App.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog - 0904\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.application
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Common.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\DBHelp.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\nGantt.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\StaticRes.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Common.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\App.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Porjects\Projects\Taiyo\Moulding\Src\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.application
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.application
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.exe
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\DBHelp.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\DDay.Update.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\nGantt.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\StaticRes.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\DBHelp.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\StaticRes.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Loading.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\App.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\App.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\Taiyo Moulding\Mould_VI_eLog - 0911\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.application
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Common.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\DBHelp.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\nGantt.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\StaticRes.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Common.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\App.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.application
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Loading.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\App.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\App.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.application
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.exe
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\DBHelp.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\DDay.Update.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\nGantt.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\StaticRes.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\DBHelp.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\StaticRes.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\Taiyo Moulding\Mould_VI_eLog - 0912\VI_eLog\obj\x86\Debug\VI_eLog.application
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.application
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.exe
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Common.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\DBHelp.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\DDay.Update.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\nGantt.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\StaticRes.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Common.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\DBHelp.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\StaticRes.pdb
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Loading.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\App.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\App.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.application
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\DBHelp.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\nGantt.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\StaticRes.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\App.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0914\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\VI_eLog.application
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\DBHelp.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\nGantt.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\StaticRes.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\App.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0919\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.application
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Common.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\DBHelp.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\nGantt.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\StaticRes.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Common.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\App.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Taiyo\Taiyo Moulding\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\DDay.Update.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\nGantt.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\StaticRes.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\StaticRes.pdb
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Loading.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\App.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\App.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 0925\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\DDay.Update.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\nGantt.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\StaticRes.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\StaticRes.pdb
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Loading.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\App.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\App.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 112\VI_eLog\obj\x86\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\DDay.Update.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\nGantt.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\StaticRes.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\StaticRes.pdb
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Loading.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\App.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\App.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 1116\VI_eLog\obj\x86\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.application
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.exe
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Common.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\DBHelp.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\DDay.Update.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\nGantt.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\StaticRes.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Common.pdb
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\DBHelp.pdb
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\StaticRes.pdb
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Loading.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\App.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\App.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.application
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.exe
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Common.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\DBHelp.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\DDay.Update.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\nGantt.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\StaticRes.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Common.pdb
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\DBHelp.pdb
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\StaticRes.pdb
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.xml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\Microsoft.Windows.Design.Markup.xml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Loading.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\App.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\App.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\New Project\Mould_VI_eLog - 1218\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.application
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\VI_eLog.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\Common.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\DBHelp.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\DDay.Update.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\nGantt.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\PresentationFramework.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\StaticRes.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\WPFToolkit.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\Common.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\DBHelp.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\StaticRes.pdb
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Loading.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\App.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Loading.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\App.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\Views\Login.baml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.application
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\McStopMessageBox.g.cs
+D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\obj\x86\Debug\UserController\McStopMessageBox.baml
+D:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.config
+D:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe
+D:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.config
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe.manifest
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\VI_eLog.application
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\VI_eLog.exe
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\VI_eLog.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\Common.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\DBHelp.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\DDay.Update.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\nGantt.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\PresentationFramework.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\StaticRes.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\WPFToolkit.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\WPFVisifire.Charts.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\Common.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\DBHelp.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\StaticRes.pdb
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\System.Windows.Interactivity.xml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csprojResolveAssemblyReference.cache
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ColorResource.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\ControlStyles.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\Chinese.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Dictionary\Language\English.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Loading.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Views\KeyBoard.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\App.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Loading.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\MainWindow.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\UserController\McStopMessageBox.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Views\KeyBoard.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Views\Login.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\App.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_Content.g.cs
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.cache
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog_MarkupCompile.lref
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Mould\eLog\VisualInspection.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\UserController\DefectController.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\UserController\McStopMessageBox.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\Views\Login.baml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.g.resources
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.Properties.Resources.resources
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.csproj.GenerateResource.Cache
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.TrustInfo.xml
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.exe.manifest
+E:\Software Project\TAIYO - Moulding - VI_eLog\VI_eLog\obj\x86\Debug\VI_eLog.application
