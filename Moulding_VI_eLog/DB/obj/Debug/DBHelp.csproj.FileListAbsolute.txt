@@ -100,3 +100,8 @@ E:\Software Project\TAIYO - Moulding - VI_eLog\DB\bin\Debug\DBHelp.dll
 E:\Software Project\TAIYO - Moulding - VI_eLog\DB\bin\Debug\DBHelp.pdb
 E:\Software Project\TAIYO - Moulding - VI_eLog\DB\obj\Debug\DBHelp.dll
 E:\Software Project\TAIYO - Moulding - VI_eLog\DB\obj\Debug\DBHelp.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\DB\bin\Debug\DBHelp.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\DB\bin\Debug\DBHelp.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\DB\obj\Debug\DBHelp.csprojResolveAssemblyReference.cache
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\DB\obj\Debug\DBHelp.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\DB\obj\Debug\DBHelp.pdb

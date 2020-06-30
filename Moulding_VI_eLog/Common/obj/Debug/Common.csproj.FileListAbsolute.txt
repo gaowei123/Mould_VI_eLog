@@ -416,3 +416,11 @@ E:\Software Project\TAIYO - Moulding - VI_eLog\Common\bin\Debug\DBHelp.pdb
 E:\Software Project\TAIYO - Moulding - VI_eLog\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 E:\Software Project\TAIYO - Moulding - VI_eLog\Common\obj\Debug\Common.dll
 E:\Software Project\TAIYO - Moulding - VI_eLog\Common\obj\Debug\Common.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\bin\Debug\Common.dll.config
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\bin\Debug\Common.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\bin\Debug\Common.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\bin\Debug\DBHelp.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\bin\Debug\DBHelp.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\obj\Debug\Common.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\Common\obj\Debug\Common.pdb

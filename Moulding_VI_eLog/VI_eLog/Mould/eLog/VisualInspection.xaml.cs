@@ -2530,657 +2530,6 @@ namespace VI_eLog.Mould.eLog
 
 
 
-        #region Machine Status Button Fucntion
-        
-        private void btnRunning_Click(object sender, RoutedEventArgs e)
-        {
-            if (StaticRes.Global.ButtonStaus.Running)
-            {
-                if (MessageBox.Show("Change machine status into Running？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
-                {
-                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.Running;
-                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.Operating;
-                    _objMachine.remark = null;
-                    if (updatemachine(false))
-                    {
-                        StaticRes.Global.ButtonStaus.Running = false;
-                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                        StaticRes.Global.ButtonStaus.MouldTesting = true;
-                        StaticRes.Global.ButtonStaus.ChangeModel = true;
-                        StaticRes.Global.ButtonStaus.BreakTime = true;
-                        StaticRes.Global.ButtonStaus.NoMaterial = true;
-                        StaticRes.Global.ButtonStaus.NoOperator = true;
-                        StaticRes.Global.ButtonStaus.Adjustment = true;
-                        StaticRes.Global.ButtonStaus.ShutDown = true;
-                        StaticRes.Global.ButtonStaus.No_Schedule = true;
-                        StaticRes.Global.ButtonStaus.MachineBreak = true;
-                        StaticRes.Global.ButtonStaus.DamageMould = true;
-                        this.BtnRunning.Background = Brushes.Purple;
-                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnModel.Background = Brushes.CornflowerBlue;
-                        this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                        this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                        this.BtnAdjustment.Background = Brushes.CornflowerBlue; 
-                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                        this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-
-                        //2018/12/04 add Testing or Running
-                        if (StaticRes.Global.Status != Common.Model.MouldingViTracking_Model.StatusList.Running)
-                        {
-                            _objCurVi = refreshVidata(StaticRes.Global.CurDay, StaticRes.Global.CurShift, (_objCurVi == null || _objCurVi.partNumber == null ? "" : _objCurVi.partNumber), StaticRes.Global.MachineID);
-
-                            StaticRes.Global.Status = Common.Model.MouldingViTracking_Model.StatusList.Running;
-                            this.btnSubmit.IsEnabled = true;
-                            if (StaticRes.Global.MachineID != "8")
-                            {
-                                _Number = 0;
-                            }
-                            else
-                            {
-                                _Number = 1;
-                            }
-                            iniTabControl();
-
-                            tbkCavityCount.Text = "";
-                            tbkCycleTime.Text = "";
-                            tbkJigNo.Text = "";
-                            tbkTargetQty.Text = "";
-                            tbkFailQty.Text = "";
-                            tbkTotalQty.Text = "";
-                            tbkPassQty.Text = "";
-                            tbkQCFailQty.Text = "";
-                            txt_opcheck.Text = "";
-                            txt_MHcheck.Text = "";
-                            txt_leadercheck.Text = "";
-                            _objCurVi = null;
-                            setMajorInfo(false);
-                        }
-                    }
-                }
-                else
-                {
-                    return;
-                }
-            }
-        }
-
-        private void btnAdjustment_Click(object sender, RoutedEventArgs e)
-        {
-            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.Adjustment);
-
-            this.gdMcStopReason.Children.Clear();
-            this.gdMcStopReason.Children.Add(mcStopBox);
-            this.gdMcStopReason.Visibility = Visibility.Visible;
-
-            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
-            
-        }
-
-        private void btnMaterialTest_Click(object sender, RoutedEventArgs e)
-        {
-            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.MaterialTesting);
-
-            this.gdMcStopReason.Children.Clear();
-            this.gdMcStopReason.Children.Add(mcStopBox);
-            this.gdMcStopReason.Visibility = Visibility.Visible;
-
-            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
-        }
-
-        private void btnMouldTest_Click(object sender, RoutedEventArgs e)
-        {
-            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.MouldTesting);
-
-            this.gdMcStopReason.Children.Clear();
-            this.gdMcStopReason.Children.Add(mcStopBox);
-            this.gdMcStopReason.Visibility = Visibility.Visible;
-
-            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
-        }
-
-        private void btnChangeMould_Click(object sender, RoutedEventArgs e)
-        {
-            if (StaticRes.Global.ButtonStaus.ChangeModel)
-            {
-                try
-                {
-                    Views.Login x = new Views.Login();
-                    x.HDClick += new Views.Login.HDClickEventHandler(ChangeMould);
-                    x.BackClick += new Views.Login.BackMaskEventHandler(CloseMask);
-                    x.ShowDialog();
-                }
-                catch (Exception ee)
-                {
-                    System.Windows.MessageBox.Show(ee.Message);
-                }
-            }
-        }
-
-        void ChangeMould()
-        {
-            try
-            {
-                StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.ChangeModel;
-                StaticRes.Global.OeeStatus = StaticRes.Global.oee.ChangeModel;
-                _objMachine.remark = null;
-                if (updatemachine(true))
-                {
-                    StaticRes.Global.ButtonStaus.Running = true;
-                    StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                    StaticRes.Global.ButtonStaus.MouldTesting = true;
-                    StaticRes.Global.ButtonStaus.ChangeModel = false;
-                    StaticRes.Global.ButtonStaus.BreakTime = true;
-                    StaticRes.Global.ButtonStaus.NoMaterial = true;
-                    StaticRes.Global.ButtonStaus.NoOperator = true;
-                    StaticRes.Global.ButtonStaus.ShutDown = true;
-                    StaticRes.Global.ButtonStaus.Adjustment = true;
-                    StaticRes.Global.ButtonStaus.No_Schedule = true;
-                    StaticRes.Global.ButtonStaus.MachineBreak = true;
-                    StaticRes.Global.ButtonStaus.DamageMould = true;
-                    this.BtnRunning.Background = Brushes.CornflowerBlue;
-                    this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                    this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                    this.BtnModel.Background = Brushes.Purple;
-                    this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                    this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                    this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                    this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                    this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                    this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                    this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                    this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-                }
-            }
-            catch (Exception ee)
-            {
-                System.Windows.MessageBox.Show(ee.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-            }
-        }
-        
-        private void btnBreakTime_Click(object sender, RoutedEventArgs e)
-        {
-            if (StaticRes.Global.ButtonStaus.BreakTime)
-            {
-                if (MessageBox.Show("Change machine status into Break Time ？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
-                {
-                    _objMachine.remark = "Meal";
-                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.BreakTime;
-                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.Shut_Down;
-                    if (updatemachine(false))
-                    {
-                        StaticRes.Global.ButtonStaus.Running = true;
-                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                        StaticRes.Global.ButtonStaus.MouldTesting = true;
-                        StaticRes.Global.ButtonStaus.ChangeModel = true;
-                        StaticRes.Global.ButtonStaus.BreakTime = false;
-                        StaticRes.Global.ButtonStaus.NoMaterial = true;
-                        StaticRes.Global.ButtonStaus.NoOperator = true;
-                        StaticRes.Global.ButtonStaus.ShutDown = true;
-                        StaticRes.Global.ButtonStaus.Adjustment = true;
-                        StaticRes.Global.ButtonStaus.No_Schedule = true;
-                        StaticRes.Global.ButtonStaus.MachineBreak = true;
-                        StaticRes.Global.ButtonStaus.DamageMould = true;
-                        this.BtnRunning.Background = Brushes.CornflowerBlue;
-                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnModel.Background = Brushes.CornflowerBlue;
-                        this.BtnBreak_Time.Background = Brushes.Purple;
-                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                        this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                        this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                        this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-                    }
-                }
-                else
-                {
-                    return;
-                }
-            }
-        }
-
-        private void btnNoOperator_Click(object sender, RoutedEventArgs e)
-        {
-            if (StaticRes.Global.ButtonStaus.NoOperator)
-            {
-                if (MessageBox.Show("Change machine status into No Operator ？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
-                {
-                    _objMachine.remark = "No Operator";
-                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.NoOperator;
-                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.Shut_Down;
-                    if (updatemachine(false))
-                    {
-                        StaticRes.Global.ButtonStaus.Running = true;
-                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                        StaticRes.Global.ButtonStaus.MouldTesting = true;
-                        StaticRes.Global.ButtonStaus.ChangeModel = true;
-                        StaticRes.Global.ButtonStaus.BreakTime = true;
-                        StaticRes.Global.ButtonStaus.NoMaterial = true;
-                        StaticRes.Global.ButtonStaus.NoOperator = false;
-                        StaticRes.Global.ButtonStaus.ShutDown = true;
-                        StaticRes.Global.ButtonStaus.Adjustment = true;
-                        StaticRes.Global.ButtonStaus.No_Schedule = true;
-                        StaticRes.Global.ButtonStaus.MachineBreak = true;
-                        StaticRes.Global.ButtonStaus.DamageMould = true;
-                        this.BtnRunning.Background = Brushes.CornflowerBlue;
-                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnModel.Background = Brushes.CornflowerBlue;
-                        this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                        this.BtnNo_Operatoer.Background = Brushes.Purple;
-                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                        this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                        this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-                    }
-                }
-                else
-                {
-                    return;
-                }
-            }
-        }
-
-        private void btnNoMaterial_Click(object sender, RoutedEventArgs e)
-        {
-            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.NoMaterial);
-
-            this.gdMcStopReason.Children.Clear();
-            this.gdMcStopReason.Children.Add(mcStopBox);
-            this.gdMcStopReason.Visibility = Visibility.Visible;
-            
-            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
-        }
-        
-        private void BtnNo_MachineBreak_Click(object sender, RoutedEventArgs e)
-        {
-            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.MachineBreak);
-
-            this.gdMcStopReason.Children.Clear();
-            this.gdMcStopReason.Children.Add(mcStopBox);
-            this.gdMcStopReason.Visibility = Visibility.Visible;
-
-            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
-        }
-
-        private void btnDamageMould_Click(object sender, RoutedEventArgs e)
-        {
-            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.DamageMould);
-
-            this.gdMcStopReason.Children.Clear();
-            this.gdMcStopReason.Children.Add(mcStopBox);
-            this.gdMcStopReason.Visibility = Visibility.Visible;
-
-            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
-        }
-
-        private void btnNoSchedule_Click(object sender, RoutedEventArgs e)
-        {
-            if (StaticRes.Global.ButtonStaus.No_Schedule)
-            {
-                if (MessageBox.Show("Change machine status into No Schedule ？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
-                {
-                    _objMachine.remark = "No Schedule";
-                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.No_Schedule;
-                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.No_Schedule;
-                    if (updatemachine(false))
-                    {
-                        StaticRes.Global.ButtonStaus.Running = true;
-                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                        StaticRes.Global.ButtonStaus.MouldTesting = true;
-                        StaticRes.Global.ButtonStaus.ChangeModel = true;
-                        StaticRes.Global.ButtonStaus.BreakTime = true;
-                        StaticRes.Global.ButtonStaus.NoMaterial = true;
-                        StaticRes.Global.ButtonStaus.NoOperator = true;
-                        StaticRes.Global.ButtonStaus.ShutDown = true;
-                        StaticRes.Global.ButtonStaus.Adjustment = true;
-                        StaticRes.Global.ButtonStaus.No_Schedule = false;
-                        StaticRes.Global.ButtonStaus.MachineBreak = true;
-                        StaticRes.Global.ButtonStaus.DamageMould = true;
-                        this.BtnRunning.Background = Brushes.CornflowerBlue;
-                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                        this.BtnModel.Background = Brushes.CornflowerBlue;
-                        this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                        this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                        this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                        this.BtnNoSchedule.Background = Brushes.Purple;
-                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-                    }
-                }
-                else
-                {
-                    return;
-                }
-            }
-        }
-
-        private void McStopBox_SetReasonCompleteEvent(bool result, string sMcStatus)
-        {
-            if (result)
-            {
-                switch (sMcStatus)
-                {
-                    case StaticRes.Global.MachineSttaus.Adjustment:
-                        #region adjustment
-                        {
-                            StaticRes.Global.ButtonStaus.Running = true;
-                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                            StaticRes.Global.ButtonStaus.MouldTesting = true;
-                            StaticRes.Global.ButtonStaus.ChangeModel = true;
-                            StaticRes.Global.ButtonStaus.BreakTime = true;
-                            StaticRes.Global.ButtonStaus.NoMaterial = true;
-                            StaticRes.Global.ButtonStaus.NoOperator = true;
-                            StaticRes.Global.ButtonStaus.ShutDown = true;
-                            StaticRes.Global.ButtonStaus.Adjustment = false;
-                            StaticRes.Global.ButtonStaus.No_Schedule = true;
-                            StaticRes.Global.ButtonStaus.MachineBreak = true;
-                            StaticRes.Global.ButtonStaus.DamageMould = true;
-                            this.BtnRunning.Background = Brushes.CornflowerBlue;
-                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnModel.Background = Brushes.CornflowerBlue;
-                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                            this.BtnAdjustment.Background = Brushes.Purple;
-                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-                        }
-                        #endregion
-                        break;
-
-                    case StaticRes.Global.MachineSttaus.MaterialTesting:
-                        #region material testing
-                        {
-                            StaticRes.Global.ButtonStaus.Running = true;
-                            StaticRes.Global.ButtonStaus.MaterialTesting = false;
-                            StaticRes.Global.ButtonStaus.MouldTesting = true;
-                            StaticRes.Global.ButtonStaus.ChangeModel = true;
-                            StaticRes.Global.ButtonStaus.BreakTime = true;
-                            StaticRes.Global.ButtonStaus.NoMaterial = true;
-                            StaticRes.Global.ButtonStaus.NoOperator = true;
-                            StaticRes.Global.ButtonStaus.ShutDown = true;
-                            StaticRes.Global.ButtonStaus.Adjustment = true;
-                            StaticRes.Global.ButtonStaus.No_Schedule = true;
-                            StaticRes.Global.ButtonStaus.MachineBreak = true;
-                            StaticRes.Global.ButtonStaus.DamageMould = true;
-                            this.BtnRunning.Background = Brushes.CornflowerBlue;
-                            this.BtnMaterial_Testing.Background = Brushes.Purple;
-                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnModel.Background = Brushes.CornflowerBlue;
-                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-
-                            //2018/12/04 add Testing or Running
-                            if (StaticRes.Global.Status != Common.Model.MouldingViTracking_Model.StatusList.MaterialTesting)
-                            {
-                                _objCurVi = refreshVidata(StaticRes.Global.CurDay, StaticRes.Global.CurShift, (_objCurVi == null || _objCurVi.partNumber == null ? "" : _objCurVi.partNumber), StaticRes.Global.MachineID);
-
-                                StaticRes.Global.Status = Common.Model.MouldingViTracking_Model.StatusList.MaterialTesting;
-                                this.btnSubmit.IsEnabled = true;
-                                if (StaticRes.Global.MachineID != "8")
-                                {
-                                    _Number = 0;
-                                }
-                                else
-                                {
-                                    _Number = 1;
-                                }
-                                iniTabControl();
-
-                                tbkCavityCount.Text = "";
-                                tbkCycleTime.Text = "";
-                                tbkJigNo.Text = "";
-                                tbkTargetQty.Text = "";
-                                tbkFailQty.Text = "";
-                                tbkTotalQty.Text = "";
-                                tbkPassQty.Text = "";
-                                tbkQCFailQty.Text = "";
-                                txt_opcheck.Text = "";
-                                txt_MHcheck.Text = "";
-                                txt_leadercheck.Text = "";
-                                _objCurVi = null;
-                                setMajorInfo(false);
-                            }
-                        }
-                        #endregion
-                        break;
-
-                    case StaticRes.Global.MachineSttaus.MouldTesting:
-                        #region mould testing
-                        {
-                            StaticRes.Global.ButtonStaus.Running = true;
-                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                            StaticRes.Global.ButtonStaus.MouldTesting = false;
-                            StaticRes.Global.ButtonStaus.ChangeModel = true;
-                            StaticRes.Global.ButtonStaus.BreakTime = true;
-                            StaticRes.Global.ButtonStaus.NoMaterial = true;
-                            StaticRes.Global.ButtonStaus.NoOperator = true;
-                            StaticRes.Global.ButtonStaus.ShutDown = true;
-                            StaticRes.Global.ButtonStaus.Adjustment = true;
-                            StaticRes.Global.ButtonStaus.No_Schedule = true;
-                            StaticRes.Global.ButtonStaus.MachineBreak = true;
-                            StaticRes.Global.ButtonStaus.DamageMould = true;
-                            this.BtnRunning.Background = Brushes.CornflowerBlue;
-                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnMould_Testing.Background = Brushes.Purple;
-                            this.BtnModel.Background = Brushes.CornflowerBlue;
-                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-
-                            //2018/12/04 add Testing or Running
-                            if (StaticRes.Global.Status != Common.Model.MouldingViTracking_Model.StatusList.MouldTesting)
-                            {
-                                _objCurVi = refreshVidata(StaticRes.Global.CurDay, StaticRes.Global.CurShift, (_objCurVi == null || _objCurVi.partNumber == null ? "" : _objCurVi.partNumber), StaticRes.Global.MachineID);
-
-                                StaticRes.Global.Status = Common.Model.MouldingViTracking_Model.StatusList.MouldTesting;
-                                this.btnSubmit.IsEnabled = true;
-                                if (StaticRes.Global.MachineID != "8")
-                                {
-                                    _Number = 0;
-                                }
-                                else
-                                {
-                                    _Number = 1;
-                                }
-                                iniTabControl();
-                                tbkCavityCount.Text = "";
-                                tbkCycleTime.Text = "";
-                                tbkJigNo.Text = "";
-                                tbkTargetQty.Text = "";
-                                tbkFailQty.Text = "";
-                                tbkTotalQty.Text = "";
-                                tbkPassQty.Text = "";
-                                tbkQCFailQty.Text = "";
-                                txt_opcheck.Text = "";
-                                txt_MHcheck.Text = "";
-                                txt_leadercheck.Text = "";
-                                _objCurVi = null;
-                                setMajorInfo(false);
-                            }
-                        }
-                        #endregion
-                        break;
-
-                    case StaticRes.Global.MachineSttaus.NoMaterial:
-                        #region no material 
-                        {
-                            StaticRes.Global.ButtonStaus.Running = true;
-                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                            StaticRes.Global.ButtonStaus.MouldTesting = true;
-                            StaticRes.Global.ButtonStaus.ChangeModel = true;
-                            StaticRes.Global.ButtonStaus.BreakTime = true;
-                            StaticRes.Global.ButtonStaus.NoMaterial = false;
-                            StaticRes.Global.ButtonStaus.NoOperator = true;
-                            StaticRes.Global.ButtonStaus.ShutDown = true;
-                            StaticRes.Global.ButtonStaus.Adjustment = true;
-                            StaticRes.Global.ButtonStaus.No_Schedule = true;
-                            StaticRes.Global.ButtonStaus.MachineBreak = true;
-                            StaticRes.Global.ButtonStaus.DamageMould = true;
-                            this.BtnRunning.Background = Brushes.CornflowerBlue;
-                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnModel.Background = Brushes.CornflowerBlue;
-                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Material.Background = Brushes.Purple;
-                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-                        }
-                        #endregion 
-                        break;
-
-                    case StaticRes.Global.MachineSttaus.MachineBreak:
-                        #region machine break
-                        {
-                            StaticRes.Global.ButtonStaus.Running = true;
-                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                            StaticRes.Global.ButtonStaus.MouldTesting = true;
-                            StaticRes.Global.ButtonStaus.ChangeModel = true;
-                            StaticRes.Global.ButtonStaus.BreakTime = true;
-                            StaticRes.Global.ButtonStaus.NoMaterial = true;
-                            StaticRes.Global.ButtonStaus.NoOperator = true;
-                            StaticRes.Global.ButtonStaus.ShutDown = true;
-                            StaticRes.Global.ButtonStaus.Adjustment = true;
-                            StaticRes.Global.ButtonStaus.No_Schedule = true;
-                            StaticRes.Global.ButtonStaus.MachineBreak = false;
-                            StaticRes.Global.ButtonStaus.DamageMould = true;
-                            this.BtnRunning.Background = Brushes.CornflowerBlue;
-                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnModel.Background = Brushes.CornflowerBlue;
-                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                            this.BtnMachineBreak.Background = Brushes.Purple;
-                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
-                        }
-                        #endregion
-                        break;
-
-                    case StaticRes.Global.MachineSttaus.DamageMould:
-                        #region mould damage
-                        {
-                            StaticRes.Global.ButtonStaus.Running = true;
-                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
-                            StaticRes.Global.ButtonStaus.MouldTesting = true;
-                            StaticRes.Global.ButtonStaus.ChangeModel = true;
-                            StaticRes.Global.ButtonStaus.BreakTime = true;
-                            StaticRes.Global.ButtonStaus.NoMaterial = true;
-                            StaticRes.Global.ButtonStaus.NoOperator = true;
-                            StaticRes.Global.ButtonStaus.ShutDown = true;
-                            StaticRes.Global.ButtonStaus.Adjustment = true;
-                            StaticRes.Global.ButtonStaus.No_Schedule = true;
-                            StaticRes.Global.ButtonStaus.MachineBreak = true;
-                            StaticRes.Global.ButtonStaus.DamageMould = false;
-                            this.BtnRunning.Background = Brushes.CornflowerBlue;
-                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
-                            this.BtnModel.Background = Brushes.CornflowerBlue;
-                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
-                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
-                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
-                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
-                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
-                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
-                            this.BtnDamageMould.Background = Brushes.Purple;
-                        }
-                        #endregion
-                        break;
-
-                    default:
-                        break;
-                }
-            }
-
-            this.gdMcStopReason.Visibility = Visibility.Collapsed;
-        }
-
-        public bool updatemachine(bool _MachineStatus)
-        {
-            _objMachine.machinestatus = StaticRes.Global.MachineStatus;
-            _objMachine.oeestatus = StaticRes.Global.OeeStatus;
-
-            _objMachine.starttime = System.DateTime.Now;
-            if (_objCurVi != null)
-            {
-                _objMachine.partno = _objCurVi.partNumber;
-            }
-            else
-            {
-                _objMachine.partno = null;
-            }
-            if (StaticRes.Global.Current_User != null)
-            {
-                _objMachine.userid = StaticRes.Global.Current_User.userID;
-                _objMachine.username = StaticRes.Global.Current_User.userName;
-                if (_MachineStatus)
-                {
-                    _objMachine.userid = StaticRes.Global.Falg_User;
-                }
-            }
-            else
-            {
-                _objMachine.userid = null;
-                _objMachine.username = null;
-            }
-            Common.BLL.MouldingMachineStatus_BLL _bMachine = new Common.BLL.MouldingMachineStatus_BLL();
-            _bMachine.endtimesearchandupdate(_objMachine);
-
-            List<System.Data.SqlClient.SqlCommand> lSqlCmd = new List<System.Data.SqlClient.SqlCommand>();
-
-            lSqlCmd.Add(_bMachine.add(_objMachine));
-            _objMachine.userid = null;
-            if (DBHelp.SqlDB.SetData_Rollback(lSqlCmd))  //by ID
-            {
-                //MessageBox.Show("Machine Status Record Updated!");
-            }
-            else
-            {
-                //MessageBox.Show("Machine Status Update Database Failed!");
-            }
-            return true;
-        }
-
-
-        #endregion
-
-
-
-
 
         private void btnOpenkeyBoard_Click(object sender, RoutedEventArgs e)
         {
@@ -4173,6 +3522,679 @@ namespace VI_eLog.Mould.eLog
             }
         }
 
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        #region Machine Status Button Fucntion
+
+        private void btnRunning_Click(object sender, RoutedEventArgs e)
+        {
+            if (StaticRes.Global.ButtonStaus.Running)
+            {
+                if (MessageBox.Show("Change machine status into Running？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
+                {
+                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.Running;
+                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.Operating;
+                    _objMachine.remark = null;
+                    if (updatemachine(false))
+                    {
+                        StaticRes.Global.ButtonStaus.Running = false;
+                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                        StaticRes.Global.ButtonStaus.MouldTesting = true;
+                        StaticRes.Global.ButtonStaus.ChangeModel = true;
+                        StaticRes.Global.ButtonStaus.BreakTime = true;
+                        StaticRes.Global.ButtonStaus.NoMaterial = true;
+                        StaticRes.Global.ButtonStaus.NoOperator = true;
+                        StaticRes.Global.ButtonStaus.Adjustment = true;
+                        StaticRes.Global.ButtonStaus.ShutDown = true;
+                        StaticRes.Global.ButtonStaus.No_Schedule = true;
+                        StaticRes.Global.ButtonStaus.MachineBreak = true;
+                        StaticRes.Global.ButtonStaus.DamageMould = true;
+                        this.BtnRunning.Background = Brushes.Purple;
+                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnModel.Background = Brushes.CornflowerBlue;
+                        this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                        this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                        this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                        this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+
+                        //2018/12/04 add Testing or Running
+                        if (StaticRes.Global.Status != Common.Model.MouldingViTracking_Model.StatusList.Running)
+                        {
+                            _objCurVi = refreshVidata(StaticRes.Global.CurDay, StaticRes.Global.CurShift, (_objCurVi == null || _objCurVi.partNumber == null ? "" : _objCurVi.partNumber), StaticRes.Global.MachineID);
+
+                            StaticRes.Global.Status = Common.Model.MouldingViTracking_Model.StatusList.Running;
+                            this.btnSubmit.IsEnabled = true;
+                            if (StaticRes.Global.MachineID != "8")
+                            {
+                                _Number = 0;
+                            }
+                            else
+                            {
+                                _Number = 1;
+                            }
+                            iniTabControl();
+
+                            tbkCavityCount.Text = "";
+                            tbkCycleTime.Text = "";
+                            tbkJigNo.Text = "";
+                            tbkTargetQty.Text = "";
+                            tbkFailQty.Text = "";
+                            tbkTotalQty.Text = "";
+                            tbkPassQty.Text = "";
+                            tbkQCFailQty.Text = "";
+                            txt_opcheck.Text = "";
+                            txt_MHcheck.Text = "";
+                            txt_leadercheck.Text = "";
+                            _objCurVi = null;
+                            setMajorInfo(false);
+                        }
+                    }
+                }
+                else
+                {
+                    return;
+                }
+            }
+        }
+
+        private void btnAdjustment_Click(object sender, RoutedEventArgs e)
+        {
+            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.Adjustment);
+
+            this.gdMcStopReason.Children.Clear();
+            this.gdMcStopReason.Children.Add(mcStopBox);
+            this.gdMcStopReason.Visibility = Visibility.Visible;
+
+            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
+
+        }
+
+        private void btnMaterialTest_Click(object sender, RoutedEventArgs e)
+        {
+            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.MaterialTesting);
+
+            this.gdMcStopReason.Children.Clear();
+            this.gdMcStopReason.Children.Add(mcStopBox);
+            this.gdMcStopReason.Visibility = Visibility.Visible;
+
+            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
+        }
+
+        private void btnMouldTest_Click(object sender, RoutedEventArgs e)
+        {
+            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.MouldTesting);
+
+            this.gdMcStopReason.Children.Clear();
+            this.gdMcStopReason.Children.Add(mcStopBox);
+            this.gdMcStopReason.Visibility = Visibility.Visible;
+
+            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
+        }
+
+        private void btnChangeMould_Click(object sender, RoutedEventArgs e)
+        {
+            if (StaticRes.Global.ButtonStaus.ChangeModel)
+            {
+                try
+                {
+                    Views.Login x = new Views.Login();
+                    x.HDClick += new Views.Login.HDClickEventHandler(ChangeMould);
+                    x.BackClick += new Views.Login.BackMaskEventHandler(CloseMask);
+                    x.ShowDialog();
+                }
+                catch (Exception ee)
+                {
+                    System.Windows.MessageBox.Show(ee.Message);
+                }
+            }
+        }
+
+        void ChangeMould()
+        {
+            try
+            {
+                StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.ChangeModel;
+                StaticRes.Global.OeeStatus = StaticRes.Global.oee.ChangeModel;
+                _objMachine.remark = null;
+                if (updatemachine(true))
+                {
+                    StaticRes.Global.ButtonStaus.Running = true;
+                    StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                    StaticRes.Global.ButtonStaus.MouldTesting = true;
+                    StaticRes.Global.ButtonStaus.ChangeModel = false;
+                    StaticRes.Global.ButtonStaus.BreakTime = true;
+                    StaticRes.Global.ButtonStaus.NoMaterial = true;
+                    StaticRes.Global.ButtonStaus.NoOperator = true;
+                    StaticRes.Global.ButtonStaus.ShutDown = true;
+                    StaticRes.Global.ButtonStaus.Adjustment = true;
+                    StaticRes.Global.ButtonStaus.No_Schedule = true;
+                    StaticRes.Global.ButtonStaus.MachineBreak = true;
+                    StaticRes.Global.ButtonStaus.DamageMould = true;
+                    this.BtnRunning.Background = Brushes.CornflowerBlue;
+                    this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                    this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                    this.BtnModel.Background = Brushes.Purple;
+                    this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                    this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                    this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                    this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                    this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                    this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                    this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                    this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+                }
+            }
+            catch (Exception ee)
+            {
+                System.Windows.MessageBox.Show(ee.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void btnBreakTime_Click(object sender, RoutedEventArgs e)
+        {
+            if (StaticRes.Global.ButtonStaus.BreakTime)
+            {
+                if (MessageBox.Show("Change machine status into Break Time ？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
+                {
+                    _objMachine.remark = "Meal";
+                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.BreakTime;
+                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.Shut_Down;
+                    if (updatemachine(false))
+                    {
+                        StaticRes.Global.ButtonStaus.Running = true;
+                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                        StaticRes.Global.ButtonStaus.MouldTesting = true;
+                        StaticRes.Global.ButtonStaus.ChangeModel = true;
+                        StaticRes.Global.ButtonStaus.BreakTime = false;
+                        StaticRes.Global.ButtonStaus.NoMaterial = true;
+                        StaticRes.Global.ButtonStaus.NoOperator = true;
+                        StaticRes.Global.ButtonStaus.ShutDown = true;
+                        StaticRes.Global.ButtonStaus.Adjustment = true;
+                        StaticRes.Global.ButtonStaus.No_Schedule = true;
+                        StaticRes.Global.ButtonStaus.MachineBreak = true;
+                        StaticRes.Global.ButtonStaus.DamageMould = true;
+                        this.BtnRunning.Background = Brushes.CornflowerBlue;
+                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnModel.Background = Brushes.CornflowerBlue;
+                        this.BtnBreak_Time.Background = Brushes.Purple;
+                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                        this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                        this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                        this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+                    }
+                }
+                else
+                {
+                    return;
+                }
+            }
+        }
+
+        private void btnNoOperator_Click(object sender, RoutedEventArgs e)
+        {
+            if (StaticRes.Global.ButtonStaus.NoOperator)
+            {
+                if (MessageBox.Show("Change machine status into No Operator ？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
+                {
+                    _objMachine.remark = "No Operator";
+                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.NoOperator;
+                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.Shut_Down;
+                    if (updatemachine(false))
+                    {
+                        StaticRes.Global.ButtonStaus.Running = true;
+                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                        StaticRes.Global.ButtonStaus.MouldTesting = true;
+                        StaticRes.Global.ButtonStaus.ChangeModel = true;
+                        StaticRes.Global.ButtonStaus.BreakTime = true;
+                        StaticRes.Global.ButtonStaus.NoMaterial = true;
+                        StaticRes.Global.ButtonStaus.NoOperator = false;
+                        StaticRes.Global.ButtonStaus.ShutDown = true;
+                        StaticRes.Global.ButtonStaus.Adjustment = true;
+                        StaticRes.Global.ButtonStaus.No_Schedule = true;
+                        StaticRes.Global.ButtonStaus.MachineBreak = true;
+                        StaticRes.Global.ButtonStaus.DamageMould = true;
+                        this.BtnRunning.Background = Brushes.CornflowerBlue;
+                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnModel.Background = Brushes.CornflowerBlue;
+                        this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                        this.BtnNo_Operatoer.Background = Brushes.Purple;
+                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                        this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                        this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+                    }
+                }
+                else
+                {
+                    return;
+                }
+            }
+        }
+
+        private void btnNoMaterial_Click(object sender, RoutedEventArgs e)
+        {
+            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.NoMaterial);
+
+            this.gdMcStopReason.Children.Clear();
+            this.gdMcStopReason.Children.Add(mcStopBox);
+            this.gdMcStopReason.Visibility = Visibility.Visible;
+
+            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
+        }
+
+        private void BtnNo_MachineBreak_Click(object sender, RoutedEventArgs e)
+        {
+            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.MachineBreak);
+
+            this.gdMcStopReason.Children.Clear();
+            this.gdMcStopReason.Children.Add(mcStopBox);
+            this.gdMcStopReason.Visibility = Visibility.Visible;
+
+            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
+        }
+
+        private void btnDamageMould_Click(object sender, RoutedEventArgs e)
+        {
+            UserController.McStopMessageBox mcStopBox = new UserController.McStopMessageBox(_objMachine, StaticRes.Global.MachineSttaus.DamageMould);
+
+            this.gdMcStopReason.Children.Clear();
+            this.gdMcStopReason.Children.Add(mcStopBox);
+            this.gdMcStopReason.Visibility = Visibility.Visible;
+
+            mcStopBox.SetReasonCompleteEvent += McStopBox_SetReasonCompleteEvent;
+        }
+
+        private void btnNoSchedule_Click(object sender, RoutedEventArgs e)
+        {
+            if (StaticRes.Global.ButtonStaus.No_Schedule)
+            {
+                if (MessageBox.Show("Change machine status into No Schedule ？", "", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
+                {
+                    _objMachine.remark = "No Schedule";
+                    StaticRes.Global.MachineStatus = StaticRes.Global.MachineSttaus.No_Schedule;
+                    StaticRes.Global.OeeStatus = StaticRes.Global.oee.No_Schedule;
+                    if (updatemachine(false))
+                    {
+                        StaticRes.Global.ButtonStaus.Running = true;
+                        StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                        StaticRes.Global.ButtonStaus.MouldTesting = true;
+                        StaticRes.Global.ButtonStaus.ChangeModel = true;
+                        StaticRes.Global.ButtonStaus.BreakTime = true;
+                        StaticRes.Global.ButtonStaus.NoMaterial = true;
+                        StaticRes.Global.ButtonStaus.NoOperator = true;
+                        StaticRes.Global.ButtonStaus.ShutDown = true;
+                        StaticRes.Global.ButtonStaus.Adjustment = true;
+                        StaticRes.Global.ButtonStaus.No_Schedule = false;
+                        StaticRes.Global.ButtonStaus.MachineBreak = true;
+                        StaticRes.Global.ButtonStaus.DamageMould = true;
+                        this.BtnRunning.Background = Brushes.CornflowerBlue;
+                        this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                        this.BtnModel.Background = Brushes.CornflowerBlue;
+                        this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                        this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                        this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                        this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                        this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                        this.BtnNoSchedule.Background = Brushes.Purple;
+                        this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                        this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+                    }
+                }
+                else
+                {
+                    return;
+                }
+            }
+        }
+
+        private void McStopBox_SetReasonCompleteEvent(bool result, string sMcStatus)
+        {
+            if (result)
+            {
+                switch (sMcStatus)
+                {
+                    case StaticRes.Global.MachineSttaus.Adjustment:
+                        #region adjustment
+                        {
+                            StaticRes.Global.ButtonStaus.Running = true;
+                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                            StaticRes.Global.ButtonStaus.MouldTesting = true;
+                            StaticRes.Global.ButtonStaus.ChangeModel = true;
+                            StaticRes.Global.ButtonStaus.BreakTime = true;
+                            StaticRes.Global.ButtonStaus.NoMaterial = true;
+                            StaticRes.Global.ButtonStaus.NoOperator = true;
+                            StaticRes.Global.ButtonStaus.ShutDown = true;
+                            StaticRes.Global.ButtonStaus.Adjustment = false;
+                            StaticRes.Global.ButtonStaus.No_Schedule = true;
+                            StaticRes.Global.ButtonStaus.MachineBreak = true;
+                            StaticRes.Global.ButtonStaus.DamageMould = true;
+                            this.BtnRunning.Background = Brushes.CornflowerBlue;
+                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnModel.Background = Brushes.CornflowerBlue;
+                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                            this.BtnAdjustment.Background = Brushes.Purple;
+                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+                        }
+                        #endregion
+                        break;
+
+                    case StaticRes.Global.MachineSttaus.MaterialTesting:
+                        #region material testing
+                        {
+                            StaticRes.Global.ButtonStaus.Running = true;
+                            StaticRes.Global.ButtonStaus.MaterialTesting = false;
+                            StaticRes.Global.ButtonStaus.MouldTesting = true;
+                            StaticRes.Global.ButtonStaus.ChangeModel = true;
+                            StaticRes.Global.ButtonStaus.BreakTime = true;
+                            StaticRes.Global.ButtonStaus.NoMaterial = true;
+                            StaticRes.Global.ButtonStaus.NoOperator = true;
+                            StaticRes.Global.ButtonStaus.ShutDown = true;
+                            StaticRes.Global.ButtonStaus.Adjustment = true;
+                            StaticRes.Global.ButtonStaus.No_Schedule = true;
+                            StaticRes.Global.ButtonStaus.MachineBreak = true;
+                            StaticRes.Global.ButtonStaus.DamageMould = true;
+                            this.BtnRunning.Background = Brushes.CornflowerBlue;
+                            this.BtnMaterial_Testing.Background = Brushes.Purple;
+                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnModel.Background = Brushes.CornflowerBlue;
+                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+
+                            //2018/12/04 add Testing or Running
+                            if (StaticRes.Global.Status != Common.Model.MouldingViTracking_Model.StatusList.MaterialTesting)
+                            {
+                                _objCurVi = refreshVidata(StaticRes.Global.CurDay, StaticRes.Global.CurShift, (_objCurVi == null || _objCurVi.partNumber == null ? "" : _objCurVi.partNumber), StaticRes.Global.MachineID);
+
+                                StaticRes.Global.Status = Common.Model.MouldingViTracking_Model.StatusList.MaterialTesting;
+                                this.btnSubmit.IsEnabled = true;
+                                if (StaticRes.Global.MachineID != "8")
+                                {
+                                    _Number = 0;
+                                }
+                                else
+                                {
+                                    _Number = 1;
+                                }
+                                iniTabControl();
+
+                                tbkCavityCount.Text = "";
+                                tbkCycleTime.Text = "";
+                                tbkJigNo.Text = "";
+                                tbkTargetQty.Text = "";
+                                tbkFailQty.Text = "";
+                                tbkTotalQty.Text = "";
+                                tbkPassQty.Text = "";
+                                tbkQCFailQty.Text = "";
+                                txt_opcheck.Text = "";
+                                txt_MHcheck.Text = "";
+                                txt_leadercheck.Text = "";
+                                _objCurVi = null;
+                                setMajorInfo(false);
+                            }
+                        }
+                        #endregion
+                        break;
+
+                    case StaticRes.Global.MachineSttaus.MouldTesting:
+                        #region mould testing
+                        {
+                            StaticRes.Global.ButtonStaus.Running = true;
+                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                            StaticRes.Global.ButtonStaus.MouldTesting = false;
+                            StaticRes.Global.ButtonStaus.ChangeModel = true;
+                            StaticRes.Global.ButtonStaus.BreakTime = true;
+                            StaticRes.Global.ButtonStaus.NoMaterial = true;
+                            StaticRes.Global.ButtonStaus.NoOperator = true;
+                            StaticRes.Global.ButtonStaus.ShutDown = true;
+                            StaticRes.Global.ButtonStaus.Adjustment = true;
+                            StaticRes.Global.ButtonStaus.No_Schedule = true;
+                            StaticRes.Global.ButtonStaus.MachineBreak = true;
+                            StaticRes.Global.ButtonStaus.DamageMould = true;
+                            this.BtnRunning.Background = Brushes.CornflowerBlue;
+                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnMould_Testing.Background = Brushes.Purple;
+                            this.BtnModel.Background = Brushes.CornflowerBlue;
+                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+
+                            //2018/12/04 add Testing or Running
+                            if (StaticRes.Global.Status != Common.Model.MouldingViTracking_Model.StatusList.MouldTesting)
+                            {
+                                _objCurVi = refreshVidata(StaticRes.Global.CurDay, StaticRes.Global.CurShift, (_objCurVi == null || _objCurVi.partNumber == null ? "" : _objCurVi.partNumber), StaticRes.Global.MachineID);
+
+                                StaticRes.Global.Status = Common.Model.MouldingViTracking_Model.StatusList.MouldTesting;
+                                this.btnSubmit.IsEnabled = true;
+                                if (StaticRes.Global.MachineID != "8")
+                                {
+                                    _Number = 0;
+                                }
+                                else
+                                {
+                                    _Number = 1;
+                                }
+                                iniTabControl();
+                                tbkCavityCount.Text = "";
+                                tbkCycleTime.Text = "";
+                                tbkJigNo.Text = "";
+                                tbkTargetQty.Text = "";
+                                tbkFailQty.Text = "";
+                                tbkTotalQty.Text = "";
+                                tbkPassQty.Text = "";
+                                tbkQCFailQty.Text = "";
+                                txt_opcheck.Text = "";
+                                txt_MHcheck.Text = "";
+                                txt_leadercheck.Text = "";
+                                _objCurVi = null;
+                                setMajorInfo(false);
+                            }
+                        }
+                        #endregion
+                        break;
+
+                    case StaticRes.Global.MachineSttaus.NoMaterial:
+                        #region no material 
+                        {
+                            StaticRes.Global.ButtonStaus.Running = true;
+                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                            StaticRes.Global.ButtonStaus.MouldTesting = true;
+                            StaticRes.Global.ButtonStaus.ChangeModel = true;
+                            StaticRes.Global.ButtonStaus.BreakTime = true;
+                            StaticRes.Global.ButtonStaus.NoMaterial = false;
+                            StaticRes.Global.ButtonStaus.NoOperator = true;
+                            StaticRes.Global.ButtonStaus.ShutDown = true;
+                            StaticRes.Global.ButtonStaus.Adjustment = true;
+                            StaticRes.Global.ButtonStaus.No_Schedule = true;
+                            StaticRes.Global.ButtonStaus.MachineBreak = true;
+                            StaticRes.Global.ButtonStaus.DamageMould = true;
+                            this.BtnRunning.Background = Brushes.CornflowerBlue;
+                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnModel.Background = Brushes.CornflowerBlue;
+                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Material.Background = Brushes.Purple;
+                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+                        }
+                        #endregion 
+                        break;
+
+                    case StaticRes.Global.MachineSttaus.MachineBreak:
+                        #region machine break
+                        {
+                            StaticRes.Global.ButtonStaus.Running = true;
+                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                            StaticRes.Global.ButtonStaus.MouldTesting = true;
+                            StaticRes.Global.ButtonStaus.ChangeModel = true;
+                            StaticRes.Global.ButtonStaus.BreakTime = true;
+                            StaticRes.Global.ButtonStaus.NoMaterial = true;
+                            StaticRes.Global.ButtonStaus.NoOperator = true;
+                            StaticRes.Global.ButtonStaus.ShutDown = true;
+                            StaticRes.Global.ButtonStaus.Adjustment = true;
+                            StaticRes.Global.ButtonStaus.No_Schedule = true;
+                            StaticRes.Global.ButtonStaus.MachineBreak = false;
+                            StaticRes.Global.ButtonStaus.DamageMould = true;
+                            this.BtnRunning.Background = Brushes.CornflowerBlue;
+                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnModel.Background = Brushes.CornflowerBlue;
+                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                            this.BtnMachineBreak.Background = Brushes.Purple;
+                            this.BtnDamageMould.Background = Brushes.CornflowerBlue;
+                        }
+                        #endregion
+                        break;
+
+                    case StaticRes.Global.MachineSttaus.DamageMould:
+                        #region mould damage
+                        {
+                            StaticRes.Global.ButtonStaus.Running = true;
+                            StaticRes.Global.ButtonStaus.MaterialTesting = true;
+                            StaticRes.Global.ButtonStaus.MouldTesting = true;
+                            StaticRes.Global.ButtonStaus.ChangeModel = true;
+                            StaticRes.Global.ButtonStaus.BreakTime = true;
+                            StaticRes.Global.ButtonStaus.NoMaterial = true;
+                            StaticRes.Global.ButtonStaus.NoOperator = true;
+                            StaticRes.Global.ButtonStaus.ShutDown = true;
+                            StaticRes.Global.ButtonStaus.Adjustment = true;
+                            StaticRes.Global.ButtonStaus.No_Schedule = true;
+                            StaticRes.Global.ButtonStaus.MachineBreak = true;
+                            StaticRes.Global.ButtonStaus.DamageMould = false;
+                            this.BtnRunning.Background = Brushes.CornflowerBlue;
+                            this.BtnMaterial_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnMould_Testing.Background = Brushes.CornflowerBlue;
+                            this.BtnModel.Background = Brushes.CornflowerBlue;
+                            this.BtnBreak_Time.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Material.Background = Brushes.CornflowerBlue;
+                            this.BtnNo_Operatoer.Background = Brushes.CornflowerBlue;
+                            this.BtnShut_Down.Background = Brushes.CornflowerBlue;
+                            this.BtnAdjustment.Background = Brushes.CornflowerBlue;
+                            this.BtnNoSchedule.Background = Brushes.CornflowerBlue;
+                            this.BtnMachineBreak.Background = Brushes.CornflowerBlue;
+                            this.BtnDamageMould.Background = Brushes.Purple;
+                        }
+                        #endregion
+                        break;
+
+                    default:
+                        break;
+                }
+            }
+
+            this.gdMcStopReason.Visibility = Visibility.Collapsed;
+        }
+
+        public bool updatemachine(bool _MachineStatus)
+        {
+            _objMachine.machinestatus = StaticRes.Global.MachineStatus;
+            _objMachine.oeestatus = StaticRes.Global.OeeStatus;
+
+            _objMachine.starttime = System.DateTime.Now;
+            if (_objCurVi != null)
+            {
+                _objMachine.partno = _objCurVi.partNumber;
+            }
+            else
+            {
+                _objMachine.partno = null;
+            }
+            if (StaticRes.Global.Current_User != null)
+            {
+                _objMachine.userid = StaticRes.Global.Current_User.userID;
+                _objMachine.username = StaticRes.Global.Current_User.userName;
+                if (_MachineStatus)
+                {
+                    _objMachine.userid = StaticRes.Global.Falg_User;
+                }
+            }
+            else
+            {
+                _objMachine.userid = null;
+                _objMachine.username = null;
+            }
+            Common.BLL.MouldingMachineStatus_BLL _bMachine = new Common.BLL.MouldingMachineStatus_BLL();
+            _bMachine.endtimesearchandupdate(_objMachine);
+
+            List<System.Data.SqlClient.SqlCommand> lSqlCmd = new List<System.Data.SqlClient.SqlCommand>();
+
+            lSqlCmd.Add(_bMachine.add(_objMachine));
+            _objMachine.userid = null;
+            if (DBHelp.SqlDB.SetData_Rollback(lSqlCmd))  //by ID
+            {
+                //MessageBox.Show("Machine Status Record Updated!");
+            }
+            else
+            {
+                //MessageBox.Show("Machine Status Update Database Failed!");
+            }
+
+
+            return true;
+        }
+
+
+        #endregion
+
+
+
+
+
+
+
+
+
+
+
     }
 }

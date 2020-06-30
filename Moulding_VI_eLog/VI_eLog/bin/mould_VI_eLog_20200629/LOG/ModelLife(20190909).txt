@@ -1,0 +1,4 @@
+20190909 11:18:46 上午 -- [|Debug Log|][RefreshVidata modellife][Visuallnspection][][MachineID : 1 PartNumberAll: 75K308-0094 Accumulate: 16281 Clean1Qty : 16281 ]
+20190909 11:18:51 上午 -- [|Debug Log|][RefreshVidata modellife][Visuallnspection][][MachineID : 1 PartNumberAll: 75K308-0094 Accumulate: 16281 Clean1Qty : 16281 ]
+20190909 11:19:20 上午 -- [|Debug Log|][RefreshVidata modellife][Visuallnspection][][MachineID : 1 PartNumberAll: 75K308-0094 Accumulate: 16281 Clean1Qty : 16281 ]
+20190909 11:19:28 上午 -- [|Debug Log|][RefreshVidata modellife][Visuallnspection][][MachineID :  PartNumberAll: 75K308-0094 Accumulate: 16281 Clean1Qty : 16281 ]

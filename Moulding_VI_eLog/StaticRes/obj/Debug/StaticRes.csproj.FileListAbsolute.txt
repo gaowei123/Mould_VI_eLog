@@ -2270,3 +2270,24 @@ E:\Software Project\TAIYO - Moulding - VI_eLog\StaticRes\bin\Debug\zh-Hant\Syste
 E:\Software Project\TAIYO - Moulding - VI_eLog\StaticRes\obj\Debug\StaticRes.csprojResolveAssemblyReference.cache
 E:\Software Project\TAIYO - Moulding - VI_eLog\StaticRes\obj\Debug\StaticRes.dll
 E:\Software Project\TAIYO - Moulding - VI_eLog\StaticRes\obj\Debug\StaticRes.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\StaticRes.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\StaticRes.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\Common.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\PresentationFramework.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\System.Windows.Interactivity.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\DBHelp.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\Common.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\System.Windows.Interactivity.xml
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\DBHelp.pdb
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\obj\Debug\StaticRes.csprojResolveAssemblyReference.cache
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\obj\Debug\StaticRes.dll
+E:\Git Source Code Storage\Mould_VI_eLog\Moulding_VI_eLog\StaticRes\obj\Debug\StaticRes.pdb

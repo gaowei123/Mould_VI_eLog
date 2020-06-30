@@ -123,7 +123,6 @@ namespace StaticRes
 
         public static class MachineSttaus
         {
-            public const string LoginOut = "Login Out";
             public const string Running = "Running";
             public const string MaterialTesting = "Material Testing";
             public const string MouldTesting = "Mould Testing";

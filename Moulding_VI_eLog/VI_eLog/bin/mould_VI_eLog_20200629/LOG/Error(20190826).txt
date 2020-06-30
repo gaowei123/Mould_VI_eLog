@@ -1,0 +1,20 @@
+20190826 16:43:35 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:40 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:41 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:46 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:46 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:51 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:52 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:57 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:43:57 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]
+20190826 16:44:02 下午 -- [|Debug Log|][RefreshVidata][Visuallnspection][][System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 VI_eLog.Mould.eLog.VisualInspection.refreshVidata(DateTime CurDay, String CurShift, String PartNumberAll, String MachineID) 位置 D:\Software Project\Taiyo\1.Moulding\Client\Mould_VI_eLog\VI_eLog\Mould\eLog\VisualInspection.xaml.cs:行号 1765]

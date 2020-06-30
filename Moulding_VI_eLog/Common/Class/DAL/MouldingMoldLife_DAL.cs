@@ -64,8 +64,6 @@ namespace Common.DAL
                 model.Accumulate = decimal.Parse(ds.Tables[0].Rows[0]["Accumulate"].ToString());
                 model.Clean1Qty = decimal.Parse(ds.Tables[0].Rows[0]["Clean1Qty"].ToString());
 
-                string aaa = ds.Tables[0].Rows[0]["MouldLife"].ToString();
-
                 model.MouldLife = decimal.Parse(ds.Tables[0].Rows[0]["MouldLife"].ToString());
             }
             return model;
